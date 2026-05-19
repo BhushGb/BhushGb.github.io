@@ -9,7 +9,7 @@ Embedded Systems | IoT | AI | Robotics
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
   <div style="width:300px; border:1px solid #ddd; border-radius:10px; padding:15px;">
-    <img src="assets/images/rtos.png" width="100%" style="border-radius:8px;">
+    <img src="assets/images/1.jpg" width="100%" style="border-radius:8px;">
 
     <h3>
       <a href="https://hackaday.io/page/7172-drone-parts-components-overview" target="_blank">
