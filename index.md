@@ -1,4 +1,4 @@
-# My Technical Portfolio
+# My Portfolio
 
 Embedded Systems | IoT | AI | Robotics
 
