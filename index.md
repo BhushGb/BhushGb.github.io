@@ -12,14 +12,14 @@ Embedded Systems | IoT | AI | Robotics
     <img src="assets/images/rtos.png" width="100%" style="border-radius:8px;">
 
     <h3>
-      <a href="https://www.instructables.com/Interfacing-GPS-Module-With-Arduino-Uno/" target="_blank">
-        Interfacing GPS Module With Arduino Uno
+      <a href="https://hackaday.io/page/7172-drone-parts-components-overview" target="_blank">
+        Drone Parts & Components' Overview
       </a>
     </h3>
 
     <p>
-      Deep dive into FreeRTOS task scheduling and priority handling.
+      Nowadays, Unmanned Aerial Vehicles (UAVs) are becoming popular with their high flying capacities, image capturing & video recording features, and most importantly, their parts & components
     </p>
 
-    <p><strong>Platform:</strong> Instructables</p>
+    <p><strong>Platform:</strong> Hackaday </p>
   </div>
