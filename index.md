@@ -13,12 +13,6 @@ I'm a Graduate engineer and diploma holder with specialization in Electronics an
 
 <h2>Connect With Me</h2>
 
-<p>
-  📧 <a href="mailto:bhushanmapari19@gmail.com">Gmail</a><br>
-  💻 <a href="https://github.com/BhushGb" target="_blank">GitHub</a><br>
-  🔗 <a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn</a>
-</p>
-
 ---
 
 ### Blogs & Publications
