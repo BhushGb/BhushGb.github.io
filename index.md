@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-<div style="text-align:center;margin:20px 0;">
-  <h1 style="margin:0;">Your Site Title</h1>
-</div>
+
 
 <div style="max-width:1200px;margin:auto;padding:20px;background:#f7f8fa;border-radius:12px;">
   
