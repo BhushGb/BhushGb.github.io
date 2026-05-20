@@ -26,24 +26,21 @@ about_content: |
   Write a short introduction about yourself here.
   You can add multiple lines.
 
-# Skills section
 skills:
-  - title: Programming
-    description: Python, JavaScript, HTML, CSS
+  - name: Programming
+    items: Python, JavaScript, HTML, CSS
 
-  - title: Tools
-    description: Git, VS Code, Linux
+  - name: Tools
+    items: Git, VS Code, Linux
 
-# Experience section
 experience:
-  - role: Student
-    company: Your School/College
-    dates: 2024 - Present
-    description: Learning web development and programming.
+  - company: Your School/College
+    position: Student
+    duration: 2024 - Present
+    details: Learning web development and programming.
 
-# Education section
 education:
-  - degree: Your Degree
-    university: Your College
-    time: 2024 - 2028
+  - university: Your College
+    degree: Your Degree
+    duration: 2024 - 2028
     details: Studying Computer Science or related field
