@@ -10,7 +10,7 @@ layout: default
   <!-- LEFT SIDE: image + contacts -->
   <div style="text-align:center;">
     <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
-         width="120"
+         width="140"
          style="border-radius:50%;">
     <ul style="list-style:none;padding:0;margin-top:0px;">
       <li><a href="mailto:yourgmail@gmail.com">Email</a></li>
@@ -27,7 +27,6 @@ layout: default
   </div>
 </div>
 
----
 <h2> My Blogs & Publications </h2>
 <hr>
 <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
