@@ -21,9 +21,7 @@ html {
     
 <p style="margin:0;">
   <a href="mailto:yourgmail@gmail.com">Email</a>
-  <span> | </span>
   <a href="https://github.com/your-username" target="_blank">GitHub</a>
-  <span> | </span>
   <a href="https://github.com/your-username" target="_blank">Linkedin</a>
 </p>
   </div>
