@@ -1,12 +1,6 @@
-remote_theme: mmistakes/minimal-mistakes
-
-author:
-  name: Bhushan S. Mapari
-  avatar: https://avatars.githubusercontent.com/BhushGb
-  links:
-    - label: GitHub
-      url: https://github.com/YOUR_USERNAME
-    - label: LinkedIn
-      url: https://linkedin.com/in/your
-    - label: Email
-      url: mailto:you@example.com
+theme: jekyll-theme-minimal
+title: Bhushan's Portfolio.
+description: Welcome. You can see my blogs and publications on this site.
+github: https://github.com/YOUR_USERNAME
+linkedin: https://linkedin.com/in/YOUR_PROFILE
+email: yourmail@example.com
