@@ -16,7 +16,7 @@ body {
   <!-- LEFT SIDE: image + contacts -->
   <div style="text-align:center;">
 
-    <img src="https://avatars.githubusercontent.com/BhushGb?size=200"
+    <img src="https://avatars.githubusercontent.com/BhushGb?size=300"
          width="120"
          style="border-radius:50%;">
 
