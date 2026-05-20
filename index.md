@@ -24,11 +24,11 @@ body {
          width="250"
          style="border-radius:50%;">
 
-    <ul style="list-style:none;padding:0;margin-top:10px;">
-      <li><a href="mailto:yourgmail@gmail.com">Email</a></li>
-      <li><a href="https://github.com/your-username" target="_blank">GitHub</a></li>
-      <li><a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a></li>
-    </ul>
+    <p><strong>Contact Me: </strong>
+      <a href="mailto:yourgmail@gmail.com">Email | </a>
+      <a href="https://github.com/your-username" target="_blank">GitHub | </a>
+      <a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a>
+    </p>
 
   </div>
 
