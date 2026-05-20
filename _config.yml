@@ -1,21 +1,3 @@
 title: Welcome
 name: Bhushan S. Mapari
 description: Bhushan's Portfolio
-
-author:
-  name: Your Name
-  avatar: https://avatars.githubusercontent.com/YOUR_USERNAME
-
-social_links:
-  - label: GitHub
-    url: https://github.com/YOUR_USERNAME
-
-  - label: LinkedIn
-    url: https://linkedin.com/in/YOUR_PROFILE
-
-  - label: Email
-    url: mailto:you@example.com
-
-markdown: kramdown
-plugins:
-  - jekyll-remote-theme
