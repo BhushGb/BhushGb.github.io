@@ -18,9 +18,7 @@ linkedin_username: YOUR_LINKEDIN
 about_profile_image: https://avatars.githubusercontent.com/BhushGb
 
 about_content: |
-  Welcome to my portfolio.
-  📌 Blog: https://yourblog.com
-  📌 Medium: https://medium.com/@yourname
+  Blog: https://yourblog.com
 
 skills:
   - name: Programming
