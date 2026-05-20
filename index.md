@@ -2,12 +2,7 @@
 layout: default
 ---
 
-<style>
-body {
-  border-left: 20px solid #f0f0f0;
-  border-right: 20px solid #f0f0f0;
-}
-</style>
+<div style="max-width:1200px;margin:auto;padding:20px;background:#fafafa;border-radius:12px;">
 
 <h1>About Me</h1>
 
@@ -57,4 +52,5 @@ body {
     <p><b>Platform:</b> abcd</p>
   </div>
 
+</div>
 </div>
