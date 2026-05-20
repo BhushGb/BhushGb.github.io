@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <style>
 body {
   background-image: radial-gradient(#eee 1px, transparent 1px);
