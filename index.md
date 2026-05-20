@@ -3,8 +3,9 @@ layout: default
 ---
 
 <style>
-h1 {
-  color: red !important;
+.wrapper {
+  background-image: radial-gradient(#ddd 1px, transparent 1px);
+  background-size: 20px 20px;
 }
 </style>
 
