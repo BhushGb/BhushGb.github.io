@@ -4,12 +4,8 @@ layout: default
 
 <style>
 html {
-  background-image: radial-gradient(#eee 1px, transparent 1px) !important;
-  background-size: 20px 20px !important;
-}
-
-body {
-  background: transparent !important;
+  background: radial-gradient(#eee 1px, transparent 1px);
+  background-size: 20px 20px;
 }
 </style>
 
@@ -25,10 +21,14 @@ body {
          style="border-radius:50%;">
 
     <p><strong>Contact Me: </strong>
-      <a href="mailto:yourgmail@gmail.com">Email | </a>
-      <a href="https://github.com/your-username" target="_blank">GitHub | </a>
-      <a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a>
-    </p>
+<p style="margin:0;">
+  <a href="mailto:yourgmail@gmail.com">Email</a>
+  <span> | </span>
+  <a href="https://github.com/your-username" target="_blank">GitHub</a>
+</p>
+  <span> | </span>
+  <a href="https://github.com/your-username" target="_blank">Linkedin</a>
+</p>
 
   </div>
 
