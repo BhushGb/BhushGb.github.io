@@ -27,62 +27,57 @@ layout: default
   </div>
 </div>
 
-<h2>Skill Set</h2>
-<p>DITA XML, Oxyegen XML Editor</p>
-
-<hr style="border:none;border-top:1px solid #f0f0f0;">
-
-<h3>My Blogs & Articles</h3>
+<h2>My Blogs & Articles</h2>
 <p>Here you can explore my writing style, tailored to different audiences and topics, reflecting my approach to clear and structured communication.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;">
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">   
     <img src="assets/images/li_ion.jpg" style="width:100%;border-radius:8px">
-    <h4><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h4>
-    <p>abcdedf</p>
+    <h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
+    <h4>abcdedf</h4>
     <p><b>Platform:</b> abcd</p>
   </div>
   
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/lipo.jpg" style="width:100%;border-radius:8px">
-    <h4><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h4>
-    <p>abcdedf</p>
+    <h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
+    <h4>abcdedf</h4>
     <p><b>Platform:</b> abcd</p>
   </div>
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/drone_parts.jpg" style="width:100%;border-radius:8px">
-    <h4><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h4>
-    <p>abcdedf</p>
+    <h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
+    <h4>abcdedf</h4>
     <p><b>Platform:</b> abcd</p>
   </div>
   
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/li.jpg" style="width:100%;border-radius:8px">
-    <h4><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h4>
-    <p>abcdedf</p>
+    <h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
+    <h4>abcdedf</h4>
     <p><b>Platform:</b> abcd</p>
   </div>
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/li.jpg" style="width:100%;border-radius:8px">
-    <h4><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h4>
-    <p>abcdedf</p>
+    <h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
+    <h4>abcdedf</h4>
     <p><b>Platform:</b> abcd</p>
   </div>
   
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/li.jpg" style="width:100%;border-radius:8px">
-    <h4><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h4>
-    <p>abcdedf</p>
+    <h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
+    <h4>abcdedf</h4>
     <p><b>Platform:</b> abcd</p>
   </div>
   
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/li.jpg" style="width:100%;border-radius:8px">
-    <h4><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h4>
-    <p>abcdedf</p>
+    <h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
+    <h4>abcdedf</h4>
     <p><b>Platform:</b> abcd</p>
   </div>
   
