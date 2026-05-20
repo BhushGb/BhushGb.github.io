@@ -18,9 +18,7 @@
   <li>🔗 <a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn Profile</a></li>
 </ul>
 
-</div>
-
-<h3>Blogs & Publications</h3>
+<h3> Blogs & Publications </h3>
 
 <div style="max-width:1200px;margin:auto;padding:0 20px;">
 
