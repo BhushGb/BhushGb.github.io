@@ -65,20 +65,16 @@ layout: default
 <hr style="margin:30px 0;border:0;border-top:1px solid #ddd;">
 <h3>My Research Papers</h3>
 
-  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">   
-    <img src="assets/images/li_i.jpg" style="width:100%;border-radius:8px">
     <h4><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h4>
     <p>abcdedf</p>
     <p><b>Platform:</b> abcd</p>
   </div>
   
-  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/li.jpg" style="width:100%;border-radius:8px">
+
     <h4><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h4>
     <p>abcdedf</p>
     <p><b>Platform:</b> abcd</p>
   </div>
-
 
 
   
