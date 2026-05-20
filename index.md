@@ -1,3 +1,10 @@
+<style>
+body {
+  background-image: radial-gradient(#eee 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+</style>
+
 <h1>About Me</h1>
 
 <div style="display:flex; align-items:flex-start; gap:20px;">
