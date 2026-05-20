@@ -12,15 +12,13 @@ html {
 <h1>About Me</h1>
 
 <div style="display:flex; align-items:flex-start; gap:20px;">
-
   <!-- LEFT SIDE: image + contacts -->
   <div style="text-align:center;">
-
     <img src="https://avatars.githubusercontent.com/BhushGb?size=300"
          width="250"
          style="border-radius:50%;">
-
     <p><strong>Contact Me: </strong></p>
+    
 <p style="margin:0;">
   <a href="mailto:yourgmail@gmail.com">Email</a>
   <span> | </span>
@@ -28,7 +26,7 @@ html {
   <span> | </span>
   <a href="https://github.com/your-username" target="_blank">Linkedin</a>
 </p>
-
+  </div>
   </div>
 
   <!-- RIGHT SIDE: text -->
