@@ -2,16 +2,18 @@
 
 <div style="display:flex; align-items:center; gap:20px;">
 
-<img src="https://avatars.githubusercontent.com/BhushGb?size=200"
-     width="120"
-     style="border-radius:50%;">
+  <img src="https://avatars.githubusercontent.com/BhushGb?size=200"
+       width="120"
+       style="border-radius:50%;">
 
-  <p style="margin:0;">
-<p> <strong>Bhushan S. Mapari</strong></p> 
-I'm a Graduate engineer and diploma holder with specialization in Electronics and Telecommunication Engg. (E&TC). Author of 2 research papers published in Institute of Electrical and Electronics Engineers (IEEE) Xplore Library. Multi-tasker with enthusiastic personality, well-versed in English, and certified in various Content Writing courses. 
----
+  <div>
+    <p style="margin:0;"><strong>Bhushan S. Mapari</strong></p>
+    <p style="margin:0;">I'm a Graduate engineer and diploma holder with specialization in Electronics and Telecommunication Engg. (E&TC). Author of 2 research papers published in Institute of Electrical and Electronics Engineers (IEEE) Xplore Library. Multi-tasker with enthusiastic personality, well-versed in English, and certified in various Content Writing courses. </p>
+  </div>
 
-## Blogs & Publications
+</div>
+
+<h2>Blogs & Publications</h2>
 
  <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
 
