@@ -29,6 +29,25 @@ Embedded Systems | IoT | AI | Robotics
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
   <div style="width:300px; border:1px solid #ddd; border-radius:10px; padding:15px;">
+    <img src="assets/images/lipo.jpg" width="100%" style="border-radius:8px;">
+
+    <h3>
+      <a href="https://hackaday.io/page/7167-detailed-guide-for-choosing-lipo-battery-for-your-drone" target="_blank">
+        Detailed Guide for Choosing LiPo Battery for Your Drone
+      </a>
+    </h3>
+
+    <p>
+      Nowadays, Unmanned Aerial Vehicles (UAVs) are becoming popular with their high flying capacities, image capturing & video recording features, and most importantly, their parts & components
+    </p>
+
+    <p><strong>Platform:</strong> Hackaday </p>
+  </div>
+
+
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
+
+  <div style="width:300px; border:1px solid #ddd; border-radius:10px; padding:15px;">
     <img src="assets/images/drone_parts.jpg" width="100%" style="border-radius:8px;">
 
     <h3>
