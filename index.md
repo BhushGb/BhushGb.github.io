@@ -30,7 +30,7 @@ layout: default
 <h2>Skill Set</h2>
 <p>DITA XML, Oxyegen XML Editor</p>
 
-<hr style="border:none;border-top:1px solid #f0f0f0;margin:40px 0;">
+<hr style="border:none;border-top:1px solid #eee;">
 
 <h3>My Blogs & Articles</h3>
 <p>Here you can explore my writing style, tailored to different audiences and topics, reflecting my approach to clear and structured communication.</p>
