@@ -1,22 +1,29 @@
 <h1>About Me</h1>
 
-<div style="display:flex; align-items:center; gap:20px;">
+<div style="display:flex; align-items:flex-start; gap:20px;">
 
-  <img src="https://avatars.githubusercontent.com/BhushGb?size=200"
-       width="120"
-       style="border-radius:50%;">
-<ul>
-  <li>📧 <a href="mailto:yourgmail@gmail.com">Email</a></li>
-  <li>💻 <a href="https://github.com/your-username" target="_blank">GitHub Profile</a></li>
-  <li>🔗 <a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn Profile</a></li>
-</ul>
+  <!-- LEFT SIDE: image + contacts -->
+  <div style="text-align:center;">
 
-  <div>
-    <p style="margin:0;"><strong>Bhushan S. Mapari</strong></p>
-    <p style="margin:0;">I'm a Graduate engineer and diploma holder with specialization in Electronics and Telecommunication Engg. (E&TC). Author of 2 research papers published in Institute of Electrical and Electronics Engineers (IEEE) Xplore Library. Multi-tasker with enthusiastic personality, well-versed in English, and certified in various Content Writing courses.
-   </p>
+    <img src="https://avatars.githubusercontent.com/BhushGb?size=200"
+         width="120"
+         style="border-radius:50%;">
+
+    <ul style="list-style:none;padding:0;margin-top:10px;">
+      <li><a href="mailto:yourgmail@gmail.com">Email</a></li>
+      <li><a href="https://github.com/your-username" target="_blank">GitHub</a></li>
+      <li><a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a></li>
+    </ul>
+
   </div>
 
+  <!-- RIGHT SIDE: text -->
+  <div>
+    <p style="margin:0;"><strong>Myname</strong></p>
+    <p style="margin:5px 0 0;">I'm a Graduate engineer and diploma holder with specialization in Electronics and Telecommunication Engg. (E&TC). Author of 2 research papers published in Institute of Electrical and Electronics Engineers (IEEE) Xplore Library. Multi-tasker with enthusiastic personality, well-versed in English, and certified in various Content Writing courses.</p>
+  </div>
+
+</div>
 ---
 ## Blogs & Publications
 
