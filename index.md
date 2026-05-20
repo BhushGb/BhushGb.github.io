@@ -19,23 +19,30 @@
 </ul>
 
 ---
+layout: default
+---
 
 <h2>Blogs & Publications</h2>
 
-<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
+<div style="max-width:1200px;margin:auto;padding:0 20px;">
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;">
+<div style="border:1px solid #ddd;border-radius:10px;overflow:hidden">
+<img src="assets/images/li.jpg" style="width:100%;height:160px;object-fit:cover">
+<div style="padding:12px">
+<h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
+<p>Short intro about this blog post goes here.</p>
+<p><b>Platform:</b> Medium</p>
+</div>
+</div>
 
-  <div style="border:1px solid #ddd;border-radius:10px;padding:15px">
-    <img src="assets/images/li.jpg" style="width:100%;border-radius:8px">
-    <h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
-    <p>abcdedf</p>
-    <p><b>Platform:</b> abcd</p>
-  </div>
-
-  <div style="border:1px solid #ddd;border-radius:10px;padding:15px">
-    <img src="assets/images/li.jpg" style="width:100%;border-radius:8px">
-    <h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
-    <p>abcdedf</p>
-    <p><b>Platform:</b> abcd</p>
-  </div>
-
+<div style="border:1px solid #ddd;border-radius:10px;overflow:hidden">
+<img src="assets/images/li.jpg" style="width:100%;height:160px;object-fit:cover">
+<div style="padding:12px">
+<h3><a href="https://blog-link.com" target="_blank">Another Blog</a></h3>
+<p>Another short description of the blog content.</p>
+<p><b>Platform:</b> Dev.to</p>
+</div>
+</div>
+</div>
+</div>
 
