@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <style>
 body::before {
   content:"";
