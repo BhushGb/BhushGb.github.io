@@ -15,7 +15,7 @@ html {
   <!-- LEFT SIDE: image + contacts -->
   <div style="text-align:center;">
     <img src="https://avatars.githubusercontent.com/BhushGb?size=300"
-         width="250"
+         width="150"
          style="border-radius:50%;">
     
 <p style="margin:0;"><strong>Myname</strong></p>
