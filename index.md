@@ -27,11 +27,10 @@ layout: default
   </div>
 </div>
 
-
 <h2>Skill Set</h2>
 <p>DITA XML, Oxyegen XML Editor</p>
 
-
+<hr>
 <h3>My Blogs & Articles</h3>
 <p>Here you can explore my writing style, tailored to different audiences and topics, reflecting my approach to clear and structured communication.</p>
 
