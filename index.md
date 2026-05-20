@@ -4,13 +4,13 @@ layout: default
 
 <style>
 body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  background: radial-gradient(#eee 1px, transparent 1px);
-  background-size: 20px 20px;
-  z-index: -1;
-  pointer-events: none;
+  content:"";
+  position:fixed;
+  inset:0;
+  background: radial-gradient(circle, #eee 1px, transparent 1px);
+  background-size: 24px 24px;
+  opacity: 0.6;
+  z-index:-1;
 }
 </style>
 
