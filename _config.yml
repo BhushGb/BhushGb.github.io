@@ -2,24 +2,19 @@ title: Welcome
 name: Bhushan S. Mapari
 description: Bhushan's Portfolio
 
-url: "https://bhushgb.github.io/"
-
 author:
   name: Your Name
   avatar: https://avatars.githubusercontent.com/YOUR_USERNAME
 
-  links:
-    - label: GitHub
-      icon: fab fa-github
-      url: https://github.com/YOUR_USERNAME
+social_links:
+  - label: GitHub
+    url: https://github.com/YOUR_USERNAME
 
-    - label: LinkedIn
-      icon: fab fa-linkedin
-      url: https://linkedin.com/in/YOUR_PROFILE
+  - label: LinkedIn
+    url: https://linkedin.com/in/YOUR_PROFILE
 
-    - label: Email
-      icon: fas fa-envelope
-      url: mailto:you@example.com
+  - label: Email
+    url: mailto:you@example.com
 
 markdown: kramdown
 plugins:
