@@ -31,6 +31,7 @@ layout: default
 <h2>My Publications</h2>
 <p>Here you can explore my writing style, tailored to different audiences and topics, reflecting my approach to clear and structured communication.</p>
 
+<h3>My Published Blogs</h3>
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;">
   
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">   
@@ -60,6 +61,8 @@ layout: default
     <p>abcdedf</p>
     <p><b>Platform:</b> abcd</p>
   </div>
+
+<hr style="margin:30px 0;border:0;border-top:1px solid #ddd;">
   
 <h3>My Research Papers</h3>
   <hr>
