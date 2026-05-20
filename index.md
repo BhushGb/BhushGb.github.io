@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<h1>My Page</h1>
+<h1>Bhushan S. Mapari</h1>
 
 <img src="https://avatars.githubusercontent.com/BhushGb?size=200"
      width="120"
      style="border-radius:50%;">
 
-# My Portfolio
+## My Portfolio
 
 Embedded Systems | IoT | AI | Robotics
 
