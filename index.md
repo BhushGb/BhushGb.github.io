@@ -11,14 +11,14 @@ layout: default
      style="border-radius:50%;">
 
   <p style="margin:0;">
-    I'm an Electronics and Telecom. Engineer.
+<p> <strong>Bhushan S. Mapari</strong></p> 
+I'm a Graduate engineer and diploma holder with specialization in Electronics and Telecommunication Engg. (E&TC). Author of 2 research papers published in Institute of Electrical and Electronics Engineers (IEEE) Xplore Library. Multi-tasker with enthusiastic personality, well-versed in English, and certified in various Content Writing courses. 
   </p>
 
 </div>
 
 
 
-## My Portfolio
 
 Embedded Systems | IoT | AI | Robotics
 
