@@ -17,7 +17,7 @@ body {
   <div style="text-align:center;">
 
     <img src="https://avatars.githubusercontent.com/BhushGb?size=300"
-         width="120"
+         width="180"
          style="border-radius:50%;">
 
     <ul style="list-style:none;padding:0;margin-top:10px;">
