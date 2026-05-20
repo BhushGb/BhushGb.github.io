@@ -1,13 +1,16 @@
 ---
 layout: default
 ---
+
 <style>
 body {
   border-left: 20px solid #f0f0f0;
   border-right: 20px solid #f0f0f0;
 }
 </style>
+
 <h1>About Me</h1>
+
 <div style="display:flex; align-items:flex-start; gap:20px;">
   <!-- LEFT SIDE: image + contacts -->
   <div style="text-align:center;">
