@@ -28,7 +28,6 @@ layout: default
 </div>
 
 <h2> My Blogs & Publications </h2>
-<hr>
 <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
 
   <div style="border:1px solid #ddd;border-radius:10px;padding:15px">
