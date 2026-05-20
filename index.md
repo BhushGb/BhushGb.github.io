@@ -15,7 +15,7 @@ layout: default
   <!-- LEFT SIDE: image + contacts -->
   <div style="text-align:center;">
     <img src="https://avatars.githubusercontent.com/BhushGb?size=300"
-         width="170"
+         width="150"
          style="border-radius:50%;">
     <ul style="list-style:none;padding:0;margin-top:0px;">
       <li><a href="mailto:yourgmail@gmail.com">Email</a></li>
