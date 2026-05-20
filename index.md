@@ -1,10 +1,4 @@
 <h1>About Me</h1>
-<h2>Contact Me</h2>
-<ul>
-  <li>📧 <a href="mailto:yourgmail@gmail.com">Email</a></li>
-  <li>💻 <a href="https://github.com/your-username" target="_blank">GitHub Profile</a></li>
-  <li>🔗 <a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn Profile</a></li>
-</ul>
 
 <div style="display:flex; align-items:center; gap:20px;">
 
@@ -16,7 +10,13 @@
     <p style="margin:0;"><strong>Bhushan S. Mapari</strong></p>
     <p style="margin:0;">I'm a Graduate engineer and diploma holder with specialization in Electronics and Telecommunication Engg. (E&TC). Author of 2 research papers published in Institute of Electrical and Electronics Engineers (IEEE) Xplore Library. Multi-tasker with enthusiastic personality, well-versed in English, and certified in various Content Writing courses. </p>
   </div>
-  
+
+<h2>Contact Me</h2>
+<ul>
+  <li>📧 <a href="mailto:yourgmail@gmail.com">Email</a></li>
+  <li>💻 <a href="https://github.com/your-username" target="_blank">GitHub Profile</a></li>
+  <li>🔗 <a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn Profile</a></li>
+</ul>
 
 </div>
 
