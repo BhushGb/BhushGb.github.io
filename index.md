@@ -3,9 +3,13 @@ layout: default
 ---
 
 <style>
-html, body {
+html {
   background-image: radial-gradient(#eee 1px, transparent 1px) !important;
   background-size: 20px 20px !important;
+}
+
+body {
+  background: transparent !important;
 }
 </style>
 
