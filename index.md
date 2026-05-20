@@ -22,7 +22,7 @@ body::before {
     <img src="https://avatars.githubusercontent.com/BhushGb?size=300"
          width="150"
          style="border-radius:50%;">
-    <ul style="list-style:none;padding:0;margin-top:10px;">
+    <ul style="list-style:none;padding:0;margin-top:0px;">
       <li><a href="mailto:yourgmail@gmail.com">Email</a></li>
       <li><a href="https://github.com/your-username" target="_blank">GitHub</a></li>
       <li><a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a></li>
