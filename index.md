@@ -12,9 +12,10 @@ I'm a Graduate engineer and diploma holder with specialization in Electronics an
   </p>
 
 </div>
-<p>
-Embedded Systems | IoT | AI | Robotics
-</p>
+
+Github: https://github.com/BhushGb 
+Email: bhushanmapari19@gmail.com
+
 ---
 
 ## Blogs & Publications
