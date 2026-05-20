@@ -1,4 +1,4 @@
-<img src="https://github.com/BhushGb.jpg"
+<img src="https://github.com/bsm.jpg"
      width="120"
      style="border-radius:50%;">
 
