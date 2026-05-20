@@ -13,18 +13,14 @@ email: you@example.com
 # Social links
 github_username: YOUR_GITHUB
 linkedin_username: YOUR_LINKEDIN
-social_links:
-  - title: Blog
-    url: https://yourblog.com
-    icon: blog
-
 
 # Optional sections (theme supports these)
 about_profile_image: https://avatars.githubusercontent.com/BhushGb
 
 about_content: |
-  Write a short introduction about yourself here.
-  You can add multiple lines.
+  Welcome to my portfolio.
+  📌 Blog: https://yourblog.com
+  📌 Medium: https://medium.com/@yourname
 
 skills:
   - name: Programming
