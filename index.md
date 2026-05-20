@@ -13,8 +13,6 @@ I'm a Graduate engineer and diploma holder with specialization in Electronics an
 
 <h2>Connect With Me</h2>
 
----
-
 ### Blogs & Publications
 
  <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
