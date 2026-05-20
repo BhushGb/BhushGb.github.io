@@ -1,6 +1,8 @@
 title: Welcome to My Portfolio
 description: Bhushan Mapari
 
+remote_theme: sproogen/resume-theme
+
 markdown: kramdown
 plugins:
   - jekyll-remote-theme
