@@ -63,7 +63,6 @@ layout: default
   </div>
 
 <h3>My Research Papers</h3>
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;">
   
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">   
     <img src="assets/images/li_i.jpg" style="width:100%;border-radius:8px">
