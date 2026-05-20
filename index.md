@@ -12,8 +12,9 @@ I'm a Graduate engineer and diploma holder with specialization in Electronics an
   </p>
 
 </div>
-<a href="mailto:yourgmail@gmail.com">Email me</a>
-Github: https://github.com/BhushGb 
+<a href="mailto:yourgmail@gmail.com?subject=Hello&body=Hi there!">
+  Send me an email
+</a> 
 
 ---
 
