@@ -2,7 +2,13 @@
 layout: default
 ---
 
-<div style="max-width:1200px;margin:auto;padding:20px;background:#fafafa;border-radius:12px;"> 
+<style>
+body {
+  background: linear-gradient(to right, #f0f0f0 0px, #ffffff 120px, #ffffff calc(100% - 120px), #f0f0f0 100%);
+}
+</style>
+
+<!-- <div style="max-width:1200px;margin:auto;padding:20px;background:#fafafa;border-radius:12px;"> -->
 <!-- <div style="max-width:1100px;margin:auto;padding:30px;background:white;border-radius:16px;box-shadow:0 2px 10px rgba(0,0,0,0.05);"> -->
 <h1>About Me</h1> 
 
