@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <h1>About Me</h1>
 
 <div style="display:flex; align-items:center; gap:20px;">
@@ -21,24 +17,23 @@ layout: default
   <li>💻 <a href="https://github.com/your-username" target="_blank">GitHub Profile</a></li>
   <li>🔗 <a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn Profile</a></li>
 </ul>
----
-<h2>Blogs & Publications</h2>
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;">
 
-  <div style="border:1px solid #ddd;border-radius:10px;overflow:hidden">
-    <img src="assets/images/li.jpg" style="width:100%;height:160px;object-fit:cover">
-    <div style="padding:15px">
-      <h3><a href="https://github.com/user/project1">Project 1</a></h3>
-      <p>Short description.</p>
-    </div>
+<h2>Blogs & Publications</h2>
+
+<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
+
+  <div style="border:1px solid #ddd;border-radius:10px;padding:15px">
+    <img src="assets/images/li.jpg" style="width:100%;border-radius:8px">
+    <h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
+    <p>abcdedf</p>
+    <p><b>Platform:</b> abcd</p>
   </div>
 
-  <div style="border:1px solid #ddd;border-radius:10px;overflow:hidden">
-    <img src="assets/images/li.jpg" style="width:100%;height:160px;object-fit:cover">
-    <div style="padding:15px">
-      <h3><a href="https://github.com/user/project2">Project 2</a></h3>
-      <p>Short description.</p>
-    </div>
+  <div style="border:1px solid #ddd;border-radius:10px;padding:15px">
+    <img src="assets/images/li.jpg" style="width:100%;border-radius:8px">
+    <h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
+    <p>abcdedf</p>
+    <p><b>Platform:</b> abcd</p>
   </div>
 
 </div>
