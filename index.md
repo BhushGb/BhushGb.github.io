@@ -2,11 +2,21 @@
 layout: default
 ---
 
-<h1>Bhushan S. Mapari</h1>
+<h1>About Me</h1>
+
+<div style="display:flex; align-items:center; gap:20px;">
 
 <img src="https://avatars.githubusercontent.com/BhushGb?size=200"
      width="120"
      style="border-radius:50%;">
+
+  <p style="margin:0;">
+    I'm an Electronics and Telecom. Engineer.
+  </p>
+
+</div>
+
+
 
 ## My Portfolio
 
