@@ -9,8 +9,8 @@ layout: default
 <div style="display:flex; align-items:flex-start; gap:20px;">
   <!-- LEFT SIDE: image + contacts -->
   <div style="text-align:center;">
-    <img src="https://avatars.githubusercontent.com/BhushGb?size=250"
-         width="140"
+    <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
+         width="120"
          style="border-radius:50%;">
     <ul style="list-style:none;padding:0;margin-top:0px;">
       <li><a href="mailto:yourgmail@gmail.com">Email</a></li>
