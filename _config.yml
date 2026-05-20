@@ -1,6 +1,44 @@
-title: Welcome to My Portfolio
-description: Bhushan Mapari
+title: Your Name
+description: Your short tagline (e.g. Web Developer | Student)
 
-markdown: kramdown
+remote_theme: sproogen/resume-theme
+
 plugins:
   - jekyll-remote-theme
+
+# Basic profile info
+name: Your Name
+email: you@example.com
+
+# Social links
+github_username: YOUR_GITHUB
+linkedin_username: YOUR_LINKEDIN
+
+# Optional sections (theme supports these)
+about_profile_image: https://avatars.githubusercontent.com/YOUR_USERNAME
+
+about_content: |
+  Write a short introduction about yourself here.
+  You can add multiple lines.
+
+# Skills section
+skills:
+  - title: Programming
+    description: Python, JavaScript, HTML, CSS
+
+  - title: Tools
+    description: Git, VS Code, Linux
+
+# Experience section
+experience:
+  - role: Student
+    company: Your School/College
+    dates: 2024 - Present
+    description: Learning web development and programming.
+
+# Education section
+education:
+  - degree: Your Degree
+    university: Your College
+    time: 2024 - 2028
+    details: Studying Computer Science or related field
