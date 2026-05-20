@@ -1,3 +1,7 @@
 title: Welcome
 name: Bhushan S. Mapari
 description: Bhushan's Portfolio
+
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
