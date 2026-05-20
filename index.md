@@ -63,7 +63,7 @@ layout: default
   </div>
 
 <hr style="margin:30px 0;border:0;border-top:1px solid #ddd;">
-<h3>My Research Papers</h3>
+<h4>My Research Papers</h4>
 
     <h4><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h4>
     <p>abcdedf</p>
