@@ -13,6 +13,11 @@ email: you@example.com
 # Social links
 github_username: YOUR_GITHUB
 linkedin_username: YOUR_LINKEDIN
+social_links:
+  - title: Blog
+    url: https://yourblog.com
+    icon: blog
+
 
 # Optional sections (theme supports these)
 about_profile_image: https://avatars.githubusercontent.com/BhushGb
@@ -42,10 +47,3 @@ education:
     university: Your College
     time: 2024 - 2028
     details: Studying Computer Science or related field
-
-links:
-  - title: Blog
-    url: https://yourblog.com
-
-  - title: Medium
-    url: https://medium.com/@yourname
