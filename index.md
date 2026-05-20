@@ -3,14 +3,8 @@ layout: default
 ---
 
 <style>
-body::before {
-  content:"";
-  position:fixed;
-  inset:0;
-  background: radial-gradient(circle, #eee 1px, transparent 1px);
-  background-size: 24px 24px;
-  opacity: 0.6;
-  z-index:-1;
+h1 {
+  color: red !important;
 }
 </style>
 
@@ -20,7 +14,7 @@ body::before {
   <!-- LEFT SIDE: image + contacts -->
   <div style="text-align:center;">
     <img src="https://avatars.githubusercontent.com/BhushGb?size=300"
-         width="180"
+         width="160"
          style="border-radius:50%;">
     <ul style="list-style:none;padding:0;margin-top:0px;">
       <li><a href="mailto:yourgmail@gmail.com">Email</a></li>
