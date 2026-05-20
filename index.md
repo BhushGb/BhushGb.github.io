@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+<style>
+header h1 {
+  text-align: center;
+}
+</style>
+
 <div style="max-width:1200px;margin:auto;padding:20px;background:#f7f8fa;border-radius:12px;">
   
 <!-- <div style="max-width:1100px;margin:auto;padding:30px;background:white;border-radius:16px;box-shadow:0 2px 10px rgba(0,0,0,0.05);"> -->
