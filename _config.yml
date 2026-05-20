@@ -1,6 +1,7 @@
 title: Welcome
-name: Bhushan S. Mapari
-description: Bhushan's Portfolio
+description: My Portfolio
+
+remote_theme: pages-themes/minimal@v0.2.0
 
 markdown: kramdown
 plugins:
