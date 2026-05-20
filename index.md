@@ -11,10 +11,10 @@
 I'm a Graduate engineer and diploma holder with specialization in Electronics and Telecommunication Engg. (E&TC). Author of 2 research papers published in Institute of Electrical and Electronics Engineers (IEEE) Xplore Library. Multi-tasker with enthusiastic personality, well-versed in English, and certified in various Content Writing courses. 
   </p>
 
-<p><strong>Connect With Me</strong><p>
+<p><strong>Connect With Me</strong></p>
 <p>
-  📧 <a href="mailto:bhushanmapari19@gmail.com">Gmail</a><br>
-  💻 <a href="https://github.com/BhushGb" target="_blank">GitHub</a><br>
+  📧 <a href="mailto:bhushanmapari19@gmail.com">Gmail</a>
+  💻 <a href="https://github.com/BhushGb" target="_blank">GitHub</a>
   🔗 <a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn</a>
 </p>
 
