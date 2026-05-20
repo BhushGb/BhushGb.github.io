@@ -12,9 +12,8 @@ I'm a Graduate engineer and diploma holder with specialization in Electronics an
   </p>
 
 </div>
-
+<a href="mailto:yourgmail@gmail.com">Email me</a>
 Github: https://github.com/BhushGb 
-Email: bhushanmapari19@gmail.com
 
 ---
 
@@ -23,8 +22,8 @@ Email: bhushanmapari19@gmail.com
  <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
 
   <div style="border:1px solid #ddd;border-radius:10px;padding:15px">
-    <img src="assets/images/li.jpg" style="width:100%;border-radius:8px">
-    <h3><a href="https://hackaday.io/page/7178-introduction-to-lithium-ion-battery" target="_blank">DIntroduction to Lithium Ion Battery</a></h3>
+    <img src="assets/images/lipo.jpg" style="width:100%;border-radius:8px">
+    <h3><a href="https://hackaday.io/page/7178-introduction-to-lithium-ion-battery" target="_blank">Introduction to Lithium Ion Battery</a></h3>
     <p>A lithium-ion battery or Li-ion battery (abbreviated as LIB) is a type of rechargeable battery. It is a lightweight, high-power battery used in computers and mobile phone.</p>
     <p><b>Platform:</b> Hackaday</p>
   </div>
