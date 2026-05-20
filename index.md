@@ -20,7 +20,7 @@ html {
          width="250"
          style="border-radius:50%;">
 
-    <p><strong>Contact Me: </strong>
+    <p><strong>Contact Me: </strong></p>
 <p style="margin:0;">
   <a href="mailto:yourgmail@gmail.com">Email</a>
   <span> | </span>
