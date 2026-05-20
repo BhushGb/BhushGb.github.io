@@ -14,7 +14,7 @@ h1 {
   <!-- LEFT SIDE: image + contacts -->
   <div style="text-align:center;">
     <img src="https://avatars.githubusercontent.com/BhushGb?size=300"
-         width="160"
+         width="200"
          style="border-radius:50%;">
     <ul style="list-style:none;padding:0;margin-top:0px;">
       <li><a href="mailto:yourgmail@gmail.com">Email</a></li>
@@ -22,6 +22,7 @@ h1 {
       <li><a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a></li>
     </ul>
   </div>
+  
   <!-- RIGHT SIDE: text -->
   <div>
     <p style="margin:0;"><strong>Bhushan S. Mapari</strong></p>
