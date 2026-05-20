@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <style>
 body::before {
   content:"";
@@ -33,8 +34,8 @@ body::before {
     <p style="margin:0;"><strong>Myname</strong></p>
     <p style="margin:5px 0 0;"> I'm a Graduate engineer and diploma holder with specialization in Electronics and Telecommunication Engg. (E&TC). Author of 2 research papers published in Institute of Electrical and Electronics Engineers (IEEE) Xplore Library. Multi-tasker with enthusiastic personality, well-versed in English, and certified in various Content Writing courses.Multi-tasker with enthusiastic personality, well-versed in English, and certified in various Content Writing courses.</p>
   </div>
-
 </div>
+
 ---
 ## Blogs & Publications
 
