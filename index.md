@@ -12,11 +12,9 @@ I'm a Graduate engineer and diploma holder with specialization in Electronics an
   </p>
 
 <p><strong>Connect With Me</strong></p>
-<p>
-  📧 <a href="mailto:bhushanmapari19@gmail.com">Gmail</a>
-  💻 <a href="https://github.com/BhushGb" target="_blank">GitHub</a>
-  🔗 <a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn</a>
-</p>
+<p>📧 <a href="mailto:bhushanmapari19@gmail.com">Gmail</a></p>
+<p>💻 <a href="https://github.com/BhushGb" target="_blank">GitHub</a></p>
+<p>🔗 <a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn</a></p>
 
 ---
 ## Blogs & Publications
