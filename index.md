@@ -11,7 +11,6 @@
     <p style="margin:0;">I'm a Graduate engineer and diploma holder with specialization in Electronics and Telecommunication Engg. (E&TC). Author of 2 research papers published in Institute of Electrical and Electronics Engineers (IEEE) Xplore Library. Multi-tasker with enthusiastic personality, well-versed in English, and certified in various Content Writing courses. </p>
   </div>
   
-<h2>Contact</h2>
 <ul>
   <li>📧 <a href="mailto:yourgmail@gmail.com">yourgmail@gmail.com</a></li>
   <li>💻 <a href="https://github.com/your-username" target="_blank">GitHub Profile</a></li>
