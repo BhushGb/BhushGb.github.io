@@ -21,7 +21,7 @@ I'm a Graduate engineer and diploma holder with specialization in Electronics an
 
 ---
 
-## Blogs & Publications
+### Blogs & Publications
 
  <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
 
