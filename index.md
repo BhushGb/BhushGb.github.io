@@ -28,7 +28,6 @@ body::before {
       <li><a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a></li>
     </ul>
   </div>
-
   <!-- RIGHT SIDE: text -->
   <div>
     <p style="margin:0;"><strong>Myname</strong></p>
@@ -39,7 +38,6 @@ body::before {
 
 ---
 ## Blogs & Publications
-
 <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
 
   <div style="border:1px solid #ddd;border-radius:10px;padding:15px">
