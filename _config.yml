@@ -15,7 +15,7 @@ github_username: YOUR_GITHUB
 linkedin_username: YOUR_LINKEDIN
 
 # Optional sections (theme supports these)
-about_profile_image: https://avatars.githubusercontent.com/YOUR_USERNAME
+about_profile_image: https://avatars.githubusercontent.com/BhushGb
 
 about_content: |
   Write a short introduction about yourself here.
@@ -42,3 +42,10 @@ education:
     university: Your College
     time: 2024 - 2028
     details: Studying Computer Science or related field
+
+links:
+  - title: Blog
+    url: https://yourblog.com
+
+  - title: Medium
+    url: https://medium.com/@yourname
