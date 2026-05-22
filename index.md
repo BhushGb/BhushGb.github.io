@@ -35,23 +35,23 @@ layout: default
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">   
     <img src="assets/images/li_ion.jpg" style="width:100%;border-radius:8px">
-    <h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
-    <h4>abcdedf</h4>
-    <p><b>Platform:</b> abcd</p>
+    <h3><a href="https://hackaday.io/page/7178-introduction-to-lithium-ion-battery" target="_blank">Introduction to Lithium Ion Battery</a></h3>
+    <h4>A lithium-ion battery or Li-ion battery (abbreviated as LIB) is a type of rechargeable battery. It is a lightweight, high-power battery</h4>
+    <p><b>Platform:</b> Hackaday</p>
   </div>
   
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/lipo.jpg" style="width:100%;border-radius:8px">
-    <h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
-    <h4>abcdedf</h4>
-    <p><b>Platform:</b> abcd</p>
+    <h3><a href="https://hackaday.io/page/7167-detailed-guide-for-choosing-lipo-battery-for-your-drone" target="_blank">Detailed Guide for Choosing LiPo Battery for Your Drone</a></h3>
+    <h4>A battery is energy source for your Unmanned Aircraft System (UAS) i.e. your drone. This battery should be good enough to help a drove fly for longer time.</h4>
+    <p><b>Platform:</b> Hackaday</p>
   </div>
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/drone_parts.jpg" style="width:100%;border-radius:8px">
     <h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
     <h4>abcdedf</h4>
-    <p><b>Platform:</b> abcd</p>
+    <p><b>Platform:</b> Hackaday</p>
   </div>
   
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
