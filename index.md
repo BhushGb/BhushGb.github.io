@@ -49,8 +49,8 @@ layout: default
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/drone_parts.jpg" style="width:100%;border-radius:8px">
-    <h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
-    <h4>abcdedf</h4>
+    <h3><a href="https://hackaday.io/page/7172-drone-parts-components-overview" target="_blank">Drone Parts & Components' Overview</a></h3>
+    <h4>Nowadays, Unmanned Aerial Vehicles (UAVs) are becoming popular with their high flying capacities, image capturing & video recording features</h4>
     <p><b>Platform:</b> Hackaday</p>
   </div>
   
