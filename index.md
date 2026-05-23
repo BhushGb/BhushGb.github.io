@@ -64,8 +64,8 @@ layout: default
   </div>
 
    <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/li_ion.jpg" style="width:100%;border-radius:8px">
-    <h3><a href="https://hackaday.io/page/7178-introduction-to-lithium-ion-battery" target="_blank">Introduction to Lithium Ion Battery</a></h3>
+    <img src="assets/images/lifepo4.jpg" style="width:100%;border-radius:8px">
+    <h3><a href="https://hackaday.io/page/7275-difference-between-lithium-ion-lifep04-battery" target="_blank">Difference between Lithium-Ion & LifeP04 Battery</a></h3>
     <p><b>Platform:</b> Hackaday</p>
   </div>
   
