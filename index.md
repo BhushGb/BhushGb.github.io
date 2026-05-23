@@ -94,17 +94,16 @@ layout: default
   </div>
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/ieee.jpg" style="width:100%;border-radius:8px">
+    <img src="assets/images/ieee.jpeg" style="width:100%;border-radius:8px">
     <h3><a href="https://ieeexplore.ieee.org/document/8697892" target="_blank">Simulation and Implementation of Microstrip Patch Antenna for ISM Band</a></h3>
     <p><b>Platform:</b> IEEE Xplore Digital Library</p>
   </div>
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/ieee.jpg" style="width:100%;border-radius:8px">
+    <img src="assets/images/ieee.jpeg" style="width:100%;border-radius:8px">
     <h3><a href="https://ieeexplore.ieee.org/document/8697481" target="_blank">Effective Environmental Monitoring & Domestic Home Conditions by Implementation of IoT</a></h3>
     <p><b>Platform:</b> IEEE Xplore Digital Library</p>
   </div>
-
   
 </div>
 </div>
