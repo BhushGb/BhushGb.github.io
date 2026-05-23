@@ -28,7 +28,7 @@ layout: default
   </div>
 </div>
 
-<h2>My Works: Projects, Research Papers, Blogs, and Articles</h2>
+<h2>My Projects, Research Papers, Blogs, and Articles</h2>
 <p>Here you can explore my writing style, tailored to different audiences and topics, reflecting my approach to clear and structured communication.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;">
