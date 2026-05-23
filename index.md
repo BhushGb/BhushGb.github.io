@@ -35,7 +35,7 @@ layout: default
 <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
 
  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/li.jpg" style="width:100%;border-radius:8px">
+    <img src="assets/images/top-10-elec.jpg" style="width:100%;border-radius:8px">
     <h3><a href="https://medium.com/@bhushanmapari24/top-10-online-electronic-components-store-in-india-7c8172ddc082" target="_blank">Top 10 Online Electronic Components’ Stores in India</a></h3>
     <p><b>Platform:</b> Medium</p>
   </div>
