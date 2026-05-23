@@ -15,8 +15,8 @@ layout: default
          style="border-radius:50%;">
     <ul style="list-style:none;padding:0;margin-top:0px;">Contact Me:
       <li><a href="mailto:bhushanmapari19@gmail.com">Email</a></li
-      <li><a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a></li>
-    <!--<li><a href="https://github.com/your-username" target="_blank">GitHub</a></li>-->
+      <li><a href="https://www.linkedin.com/in/bhushan-m-b7b572162/" target="_blank">LinkedIn</a></li>
+          <a href="https://github.com/your-username" target="_blank">GitHub</a>
     </ul>
   </div>
   
