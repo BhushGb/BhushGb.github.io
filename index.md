@@ -13,7 +13,7 @@ layout: default
     <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
          style="border-radius:50%;">
-    <ul style="list-style:none;padding:0;margin-top:0px;">Contact Me:
+    <ul style="list-style:none;padding:0;margin-top:0px;">Contact:
       <li><a href="mailto:yourgmail@gmail.com">Email</a></li>
       <li><a href="https://github.com/your-username" target="_blank">GitHub</a></li>
       <li><a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a></li>
