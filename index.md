@@ -1,21 +1,21 @@
 ---
 layout: default
 ---
+<div style="display:flex; flex-direction:column; align-items:center; text-align:center; gap:10px;">
 
-<div style="max-width:1200px;margin:auto;padding:20px;background:#f7f8fa;border-radius:12px;">
-  
-<!-- <div style="max-width:1100px;margin:auto;padding:30px;background:white;border-radius:16px;box-shadow:0 2px 10px rgba(0,0,0,0.05);"> -->
-<h1 style="margin-top:0;">About Me</h1>
+  <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
+       width="140"
+       style="border-radius:50%;">
 
-<div style="display:flex; align-items:flex-start; gap:20px;">
-  <!-- LEFT SIDE: image + contacts -->
-  <div style="text-align:center;">
-    <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
-         width="140"
-         style="border-radius:50%;">
-    <ul style="list-style:none;padding:0;margin-top:0px;">Contact Me:
-      <li><a href="mailto:bhushanmapari19@gmail.com">Email</a></li>
-      <li><a href="www.linkedin.com/in/bhushan-m-b7b572162">LinkedIn</a></li>
+  <div>
+    <p style="margin:0;"><strong>Contact Me:</strong></p>
+    <ul style="list-style:none; padding:0; margin:8px 0 0 0;">
+      <li>
+        <a href="mailto:b@gmail.com">Email</a>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/b">LinkedIn</a>
+      </li>
     </ul>
   </div>
   
