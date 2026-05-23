@@ -2,20 +2,12 @@
 layout: default
 ---
 <div style="display:flex; flex-direction:column; align-items:center; text-align:center; gap:10px;">
-
   <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
        width="140"
        style="border-radius:50%;">
-
-  <div>
-    <p style="margin:0;"><strong>Contact Me:</strong></p>
-    <ul style="list-style:none; padding:0; margin:8px 0 0 0;">
-      <li>
-        <a href="mailto:b@gmail.com">Email</a>
-      </li>
-      <li>
-        <a href="https://www.linkedin.com/in/b">LinkedIn</a>
-      </li>
+    <ul style="list-style:none;padding:0;margin-top:0px;">Contact Me:
+      <li><a href="mailto:b@gmail.com">Email</a></li>
+      <li><a href="www.linkedin.com/in/b">LinkedIn</a></li>
     </ul>
   </div>
   
