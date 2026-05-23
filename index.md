@@ -82,17 +82,29 @@ layout: default
   </div>
   
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/li.jpg" style="width:100%;border-radius:8px">
-    <h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
-    <p><b>Platform:</b> abcd</p>
+    <img src="assets/images/pi.jpg" style="width:100%;border-radius:8px">
+    <h3><a href="https://sites.google.com/view/technophiles/home/articles/introducing-raspberry-pi-4-model-b" target="_blank">Introducing Raspberry Pi 4 Model-B</a></h3>
+    <p><b>Platform:</b> Technophiles - Google Sites</p>
   </div>
 
-  
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/li.jpg" style="width:100%;border-radius:8px">
-    <h3><a href="https://blog-link.com" target="_blank">Detailed Blog</a></h3>
-    <p><b>Platform:</b> abcd</p>
+    <img src="assets/images/apm.jpg" style="width:100%;border-radius:8px">
+    <h3><a href="https://sites.google.com/view/technophiles/home/articles/apm-2-8-flight-controller-with-built-in-compass" target="_blank">APM 2.8 Flight Controller with Built-in Compass</a></h3>
+    <p><b>Platform:</b> Technophiles - Google Sites</p>
   </div>
+
+  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
+    <img src="assets/images/ieee.jpg" style="width:100%;border-radius:8px">
+    <h3><a href="https://ieeexplore.ieee.org/document/8697892" target="_blank">Simulation and Implementation of Microstrip Patch Antenna for ISM Band</a></h3>
+    <p><b>Platform:</b> IEEE Xplore Digital Library</p>
+  </div>
+
+  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
+    <img src="assets/images/ieee.jpg" style="width:100%;border-radius:8px">
+    <h3><a href="https://ieeexplore.ieee.org/document/8697481" target="_blank">Effective Environmental Monitoring & Domestic Home Conditions by Implementation of IoT</a></h3>
+    <p><b>Platform:</b> IEEE Xplore Digital Library</p>
+  </div>
+
   
 </div>
 </div>
