@@ -33,6 +33,24 @@ layout: default
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;">
 
+  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
+    <img src="assets/images/ieee.jpeg" style="width:100%;border-radius:8px">
+    <h3><a href="https://ieeexplore.ieee.org/document/8697892" target="_blank">Simulation and Implementation of Microstrip Patch Antenna for ISM Band</a></h3>
+    <p><b>Platform:</b> IEEE Xplore Digital Library</p>
+  </div>
+
+  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
+    <img src="assets/images/ieee.jpeg" style="width:100%;border-radius:8px">
+    <h3><a href="https://ieeexplore.ieee.org/document/8697481" target="_blank">Effective Environmental Monitoring & Domestic Home Conditions by Implementation of IoT</a></h3>
+    <p><b>Platform:</b> IEEE Xplore Digital Library</p>
+  </div>
+
+  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
+    <img src="assets/images/calc.jpg" style="width:100%;border-radius:8px">
+    <h3><a href="https://github.com/BhushGb/P_DITA_XML_Docs/tree/main/calc-user-guide-project" target="_blank">CALC User Guide – DITA XML Documentation Project</a></h3>
+    <p><b>Platform:</b> Github</p>
+  </div>
+
  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/top-10-elec.jpg" style="width:100%;border-radius:8px">
     <h3><a href="https://medium.com/@bhushanmapari24/top-10-online-electronic-components-store-in-india-7c8172ddc082" target="_blank">Top 10 Online Electronic Components’ Stores in India</a></h3>
@@ -91,24 +109,6 @@ layout: default
     <img src="assets/images/apm.jpg" style="width:100%;border-radius:8px">
     <h3><a href="https://sites.google.com/view/technophiles/home/articles/apm-2-8-flight-controller-with-built-in-compass" target="_blank">APM 2.8 Flight Controller with Built-in Compass</a></h3>
     <p><b>Platform:</b> Technophiles - Google Sites</p>
-  </div>
-
-  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/ieee.jpeg" style="width:100%;border-radius:8px">
-    <h3><a href="https://ieeexplore.ieee.org/document/8697892" target="_blank">Simulation and Implementation of Microstrip Patch Antenna for ISM Band</a></h3>
-    <p><b>Platform:</b> IEEE Xplore Digital Library</p>
-  </div>
-
-  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/ieee.jpeg" style="width:100%;border-radius:8px">
-    <h3><a href="https://ieeexplore.ieee.org/document/8697481" target="_blank">Effective Environmental Monitoring & Domestic Home Conditions by Implementation of IoT</a></h3>
-    <p><b>Platform:</b> IEEE Xplore Digital Library</p>
-  </div>
-
-  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/calc.jpg" style="width:100%;border-radius:8px">
-    <h3><a href="https://github.com/BhushGb/P_DITA_XML_Docs/tree/main/calc-user-guide-project" target="_blank">CALC User Guide – DITA XML Documentation Project</a></h3>
-    <p><b>Platform:</b> Github</p>
   </div>
   
 </div>
