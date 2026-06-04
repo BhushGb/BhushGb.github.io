@@ -50,7 +50,7 @@ layout: default
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/sine.jpg" style="width:100%;border-radius:8px">
-    <h3><a href="https://github.com/BhushGb/Asciidoc-project/tree/26d62e0b756cbbcc097f5290ff3f1c8d875f9ff4" target="_blank">Radio Communication Documentation Project</a></h3>
+    <h3><a href="https://github.com/BhushGb/Asciidoc-project" target="_blank">Radio Communication Documentation Project</a></h3>
     <p><b>Platform:</b> GitHub</p>
   </div>
 
