@@ -37,6 +37,12 @@ layout: default
   </div>
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
+    <img src="assets/images/sine_wave.png" style="width:100%;border-radius:8px">
+    <h3><a href="https://github.com/BhushGb/Asciidoc-project/tree/26d62e0b756cbbcc097f5290ff3f1c8d875f9ff4" target="_blank">Radio Communication – An Asciidoc Project</a></h3>
+    <p><b>Platform:</b> GitHub</p>
+  </div>
+
+  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/calc.jpg" style="width:100%;border-radius:8px">
     <h3><a href="https://github.com/BhushGb/P_DITA_XML_Docs/tree/main/calc-user-guide-project" target="_blank">CALC User Guide – DITA XML Documentation Project</a></h3>
     <p><b>Platform:</b> Github</p>
