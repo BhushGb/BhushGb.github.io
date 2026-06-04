@@ -37,13 +37,13 @@ layout: default
   </div>
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/dm.jpg" style="width:100%;border-radius:8px">
+    <img src="assets/images/qo.png" style="width:100%;border-radius:8px">
     <h3><a href="https://qr.ae/pG0u77" target="_blank">Which Digital Multimeter is Good to Buy? </a></h3>
     <p><b>Platform:</b> Quora</p>
   </div>
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/pizero.jpg" style="width:100%;border-radius:8px">
+    <img src="assets/images/qo.png" style="width:100%;border-radius:8px">
     <h3><a href="https://qr.ae/pG0u7N" target="_blank">Where Can I Buy Raspberry Pi Zero in India?</a></h3>
     <p><b>Platform:</b> Quora</p>
   </div>
