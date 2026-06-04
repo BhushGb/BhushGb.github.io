@@ -37,6 +37,18 @@ layout: default
   </div>
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
+    <img src="assets/images/dm.jpg" style="width:100%;border-radius:8px">
+    <h3><a href="https://qr.ae/pG0u77" target="_blank">Which digital multimeter is good to buy? </a></h3>
+    <p><b>Platform:</b> Quora</p>
+  </div>
+
+  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
+    <img src="assets/images/pizero.jpg" style="width:100%;border-radius:8px">
+    <h3><a href="https://qr.ae/pG0u7N" target="_blank">Where can I buy Raspberry Pi Zero in India?</a></h3>
+    <p><b>Platform:</b> Quora</p>
+  </div>
+
+  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/sine.jpg" style="width:100%;border-radius:8px">
     <h3><a href="https://github.com/BhushGb/Asciidoc-project/tree/26d62e0b756cbbcc097f5290ff3f1c8d875f9ff4" target="_blank">Radio Communication – An Asciidoc Project</a></h3>
     <p><b>Platform:</b> GitHub</p>
