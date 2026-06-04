@@ -43,7 +43,7 @@ layout: default
   </div>
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/calc.jpg" style="width:100%;border-radius:8px">
+    <img src="assets/images/calc2.jpg" style="width:100%;border-radius:8px">
     <h3><a href="https://github.com/BhushGb/P_DITA_XML_Docs/tree/main/calc-user-guide-project" target="_blank">CALC User Guide – DITA XML Documentation Project</a></h3>
     <p><b>Platform:</b> Github</p>
   </div>
