@@ -23,7 +23,7 @@ layout: default
 
 <h2>Articles, Publications, Research Papers, and Projects</h2>
 <p>Explore a collection of my research papers, projects, articles, blogs, and publications that showcase my writing style, technical expertise, and ability to communicate complex concepts with clarity and structure for diverse audiences.
-</p>Graduate Engineer and Diploma Holder in
+</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;">
 
