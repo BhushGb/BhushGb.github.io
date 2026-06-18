@@ -1,13 +1,26 @@
 ---
 layout: default
 ---
-<div id="contact-links" style="display:flex; align-items:flex-start; gap:20px;">
+
+<div style="text-align: center; ">
+  <h4 style="margin-bottom: 10px;">Thank you for visiting my portfolio.</h4>
+    <p style="color: #666; margin: 0;">
+    I appreciate your time and consideration. Feel free to connect with me for opportunities or collaboration.</p>
+        <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
+         width="140"
+         style="border-radius:50%;">
+    <p>Let’s connect!</p>
+      <a href="mailto:bhushanmapari19@gmail.com">Email | </a>
+      <a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn | </a></li>
+      <a href="https://github.com/BhushGb" target="_blank">Github</a>
+
+<div style="display:flex; align-items:flex-start; gap:20px;">
   <div style="text-align:center;">
     <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
          style="border-radius:50%;">
     <ul style="list-style:none;padding:0;margin-top:0px;"> Contact Me:
-      <li><a href="mailto:bhushanmapari19@gmail.com">Email</a></li>
+      <li><a id="contact-links" href="mailto:bhushanmapari19@gmail.com">Email</a></li>
       <li><a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn</a></li>
       <li><a href="https://github.com/BhushGb" target="_blank">Github</a></li>
     </ul>
@@ -118,6 +131,8 @@ layout: default
     <p><b>Platform:</b> Github</p>
   </div>
 </div>
+
+<div class="divider"></div>
 
 <hr style="margin: 10px 0; border: none; height: 1px; background: #ddd;">
 <div style="text-align: center; ">
