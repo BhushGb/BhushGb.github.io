@@ -120,7 +120,7 @@ layout: default
   </div>
 </div>
 
-<hr style="margin-top: 40px; margin-bottom: 20px; border: none; height: 1px; background: #eee;">
+<hr style="margin-top: 40px; margin-bottom: 20px; border: none; height: 1px; background: #ddd;">
 
 <div style="text-align: center; ">
   <h4 style="margin-bottom: 10px;">Thank you for visiting my portfolio.</h4>
