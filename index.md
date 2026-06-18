@@ -128,11 +128,10 @@ layout: default
     I appreciate your time and consideration. Feel free to connect with me for opportunities or collaboration.</p>
         <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
-         style="border-radius:50%;">
+         style="border-radius:50%;"> <strong>Bhushan S. Mapari</strong>strong>
       <p>
       <a href="mailto:bhushanmapari19@gmail.com">Email | </a>
       <a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn | </a>
       <a href="https://github.com/BhushGb" target="_blank">Github</a>
       </p>
-      <p><strong>Let’s connect!</strong></p>
   </div>
