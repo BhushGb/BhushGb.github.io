@@ -127,8 +127,7 @@ layout: default
 
 <hr style="margin: 40px 0; border: none; height: 1px; background: #ddd;">
 <div style="text-align: center; padding: 20px 10px; font-family: Arial, sans-serif;">
-  <h3 style="margin-bottom: 10px;">Thank You for Visiting</h3>
+  <h4 style="margin-bottom: 10px;">Thank You for visiting my portfolio</h4>
   <p style="color: #666; margin: 0;">
-    I appreciate your time. Feel free to connect for opportunities or collaboration.<p>Built with passion by <b>Bhushan.</b></p>
+    I appreciate your time. Feel free to connect for opportunities or collaboration.</p>
     <p><a href="#contact-links">Go to Contact Links</a></p>
-</div>
