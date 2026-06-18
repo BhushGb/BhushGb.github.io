@@ -130,8 +130,8 @@ layout: default
   <h4 style="margin-bottom: 10px;">Thank you for visiting my portfolio.</h4>
     <p style="color: #666; margin: 0;">
     I appreciate your time and consideration. Feel free to connect with me for opportunities or collaboration.</p>
+       <p>Bhushan S. Mapari<p/>
         <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
          style="border-radius:50%;">
-     <p>Bhushan S. Mapari<p/>
     <p><a href="#contact-links">Let’s connect! </a></p>
