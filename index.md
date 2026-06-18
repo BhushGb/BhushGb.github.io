@@ -130,7 +130,7 @@ layout: default
       <a href="www.linkedin.com/in/bhushan-mapari-b7b572162" target="_blank">LinkedIn | </a>
       <a href="https://github.com/BhushGb" target="_blank">Github</a>
       </p>
-        <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
+      <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
          style="border-radius:50%;"> 
   <p><strong>Bhushan S. Mapari</strong></p>
