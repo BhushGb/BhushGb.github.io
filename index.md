@@ -128,9 +128,9 @@ layout: default
 <hr style="margin: 10px 0; border: none; height: 1px; background: #ddd;">
 <div style="text-align: center; ">
   <h4 style="margin-bottom: 10px;">Thank you for visiting my portfolio.</h4>
+    <p style="color: #666; margin: 0;">
+    I appreciate your time. Feel free to connect with me for opportunities or collaboration.</p>
       <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
          style="border-radius:50%;">
-  <p style="color: #666; margin: 0;">
-    I appreciate your time. Feel free to connect with me for opportunities or collaboration.</p>
     <p><a href="#contact-links">Contact Bhushan.</a></p>
