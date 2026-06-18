@@ -135,6 +135,4 @@ layout: default
          style="border-radius:50%;"> 
   <p><strong>Bhushan S. Mapari</strong></p>
   </div>
-  
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="bhushan-mapari-b7b572162" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bhushan-mapari-b7b572162?trk=profile-badge">Bhushan Mapari</a></div>
               
