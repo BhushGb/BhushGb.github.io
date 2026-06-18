@@ -1,16 +1,15 @@
 ---
 layout: default
 ---
-
 <div style="display:flex; align-items:flex-start; gap:20px;">
   <div style="text-align:center;">
     <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
          style="border-radius:50%;">
     <ul style="list-style:none;padding:0;margin-top:0px;"> Contact Me:
-      <li><a id="contact-links" href="mailto:bhushanmapari19@gmail.com">Email</a></li>
-      <li><a href="www.linkedin.com/in/bhushan-mapari-b7b572162" target="_blank">LinkedIn</a></li>
-      <li><a href="https://github.com/BhushGb" target="_blank">Github</a></li>
+      <li><a href="mailto:bhushanmapari19@gmail.com"> Email </a></li>
+      <li><a href="www.linkedin.com/in/bhushan-mapari-b7b572162" target="_blank"> LinkedIn </a></li>
+      <li><a href="https://github.com/BhushGb" target="_blank"> Github </a></li>
     </ul>
   </div>
   
