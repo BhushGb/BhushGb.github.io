@@ -133,4 +133,5 @@ layout: default
         <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
          style="border-radius:50%;">
+     Bhushan S. Mapari
     <p><a href="#contact-links">Let’s connect! </a></p>
