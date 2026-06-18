@@ -127,7 +127,7 @@ layout: default
 
 <hr style="margin: 10px 0; border: none; height: 1px; background: #ddd;">
 <div style="text-align: center; ">
-  <p style="margin-bottom: 10px;"><strong>Thank you for visiting my portfolio.<strong/></p>
+  <h4 style="margin-bottom: 10px;">Thank you for visiting my portfolio.</h4>
     <p style="color: #666; margin: 0;">
     I appreciate your time and consideration. Feel free to connect with me for opportunities or collaboration.</p>
         <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
