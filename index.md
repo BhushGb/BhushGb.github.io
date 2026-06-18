@@ -124,8 +124,9 @@ layout: default
     <p><b>Platform:</b> Github</p>
   </div>
 
-<form action="https://formspree.io/f/your-id" method="POST">
+</div>
 
+<form action="https://formspree.io/f/your-id" method="POST">
   <label for="name">Name</label>
   <input type="text" id="name" name="name" placeholder="Your Name" required>
 
@@ -139,10 +140,5 @@ layout: default
   <textarea id="message" name="message" rows="5" placeholder="Your Message" required></textarea>
 
   <button type="submit">Send Message</button>
-
 </form>
-
-
-</div>
-
 
