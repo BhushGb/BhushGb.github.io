@@ -135,3 +135,5 @@ layout: default
          style="border-radius:50%;"> 
   <p><strong>Bhushan S. Mapari</strong></p>
   </div>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
