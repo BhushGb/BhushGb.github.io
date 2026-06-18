@@ -123,7 +123,7 @@ layout: default
 <hr style="margin-top: 40px; margin-bottom: 20px; border: none; height: 1px; background: #ddd;">
 
 <div style="text-align: center; ">
-  <h4 style="margin-bottom: 10px;"><i>Thank you for visiting my portfolio.</i></h4>
+  <h4 style="margin-bottom: 10px;">Thank you for visiting my portfolio.</h4>
     <p style="color: #666; margin: 10px;">
    <i> I appreciate your time and consideration. Feel free to connect with me for opportunities or collaboration.</i></p>
       <p style="color: #666; margin: 10px;">
