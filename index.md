@@ -130,4 +130,4 @@ layout: default
   <h4 style="margin-bottom: 10px;">Thank You for visiting my portfolio.</h4>
   <p style="color: #666; margin: 0;">
     I appreciate your time. Feel free to connect with me for opportunities or collaboration.</p>
-    <p><a href="#contact-links">Go to Contact Links</a></p>
+    <p><a href="#contact-links">Contact Bhushan.</a></p>
