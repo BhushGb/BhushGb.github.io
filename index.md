@@ -16,7 +16,7 @@ layout: default
   
   <div>
      <p style="margin:0;"><strong>Bhushan S. Mapari</strong></p>
-    <p style="margin:5px 0 0; text-align: justify;">Graduate Engineer and Diploma holder specializing in Electronics and Telecommunication Engineering (E&TC). Author of two research papers published in the IEEE Xplore® Digital Library. Experienced professional with over 4 years of corporate experience, including tenure at Wipro and Robu.in. 
+    <p style="margin:5px 0 0; text-align: justify;">Graduate Engineer and Diploma holder specializing in Electronics and Telecommunication Engineering (E&TC). Author of two research papers published in the IEEE Xplore Digital Library. Experienced professional with over 4 years of corporate experience, including tenure at Wipro and Robu.in. 
 </p>
      <p style="text-align: justify;">Certified in emerging technologies, with expertise in technical writing, documentation, AI-assisted content development and hands-on experience with WordPress-based content management. Possess strong verbal and non-verbal communication skills, complemented by proven abilities in research, presentation delivery, problem-solving, teamwork, and cross-functional collaboration. </p>
   </div>
@@ -92,13 +92,13 @@ layout: default
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/ieee.jpeg" style="width:100%;border-radius:8px">
     <h3><a href="https://ieeexplore.ieee.org/document/8697892" target="_blank">Research Paper: Simulation and Implementation of Microstrip Patch Antenna for ISM Band</a></h3>
-    <p><b>Platform:</b> IEEE Xplore® Digital Library</p>
+    <p><b>Platform:</b> IEEE Xplore</p>
   </div>
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/ieee.jpeg" style="width:100%;border-radius:8px">
     <h3><a href="https://ieeexplore.ieee.org/document/8697481" target="_blank">Research Paper: Effective Environmental Monitoring & Domestic Home Conditions by Implementation of IoT</a></h3>
-    <p><b>Platform:</b> IEEE Xplore® Digital Library</p>
+    <p><b>Platform:</b> IEEE Xplore</p>
   </div>
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
