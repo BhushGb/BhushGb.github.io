@@ -123,9 +123,9 @@ layout: default
 <hr style="margin-top: 40px; margin-bottom: 20px; border: none; height: 1px; background: #ddd;">
 
 <div style="text-align: center; ">
-  <h4 style="margin-bottom: 10px;">Thank you for visiting my portfolio.</h4>
+  <h4 style="margin-bottom: 10px;"><i>Thank you for visiting my portfolio.</i></h4>
     <p style="color: #666; margin: 10px;">
-    I appreciate your time and consideration. Feel free to connect with me for opportunities or collaboration.</p>
+   <i> I appreciate your time and consideration. Feel free to connect with me for opportunities or collaboration.</i></p>
       <p style="color: #666; margin: 10px;">
       <a href="mailto:bhushanmapari19@gmail.com">Email | </a>
       <a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn | </a>
