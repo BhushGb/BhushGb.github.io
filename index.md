@@ -144,5 +144,5 @@ layout: default
          style="border-radius:50%;">
     <p>Let’s connect!</p>
       <a href="mailto:bhushanmapari19@gmail.com">Email | </a>
-      <a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn | </a></li>
+      <a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn | </a>
       <a href="https://github.com/BhushGb" target="_blank">Github</a>
