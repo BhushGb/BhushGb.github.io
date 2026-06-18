@@ -6,7 +6,7 @@ layout: default
     <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
          style="border-radius:50%;">
-    <ul style="list-style:none;padding:0;margin-top:0px;">Contact Me:
+    <ul style="list-style:none;padding:0;margin-top:0px;">Get in Touch:
       <li><a href="mailto:bhushanmapari19@gmail.com">Email</a></li>
       <li><a href="https://in.linkedin.com/in/bhushan-m-b7b572162">LinkedIn</a></li>
         <li><a href="https://github.com/BhushGb">Github</a></li>
@@ -124,24 +124,3 @@ layout: default
     <p><b>Platform:</b> Github</p>
   </div>
 </div>
-
-<hr>
-<h4>Get in Touch</h4>
-
-<form action="https://formspree.io/f/your-id" method="POST">
-  
-  <label for="name">Name</label>
-  <input type="text" id="name" name="name" placeholder="Your Name" required><br><br>
-
-  <label for="email">Email</label>
-  <input type="email" id="email" name="email" placeholder="Your Email" required><br><br>
-
-  <label for="subject">Subject</label>
-  <input type="text" id="subject" name="subject" placeholder="Subject"><br><br>
-
-  <label for="message"></label>Message<br><br>
-  <textarea id="message" name="message" rows="5" placeholder="Your Message" required></textarea>
-
-  <button type="submit">Send Message</button>
-</form>
-
