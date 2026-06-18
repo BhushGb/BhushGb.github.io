@@ -120,7 +120,7 @@ layout: default
   </div>
 </div>
 
-<hr style="margin: 20px 0; border: none; height: 4px; background: #ddd;">
+<hr style="margin-top: 40px; margin-bottom: 20px; border: none; height: 4px; background: #ddd;">
 
 <div style="text-align: center; ">
   <h4 style="margin-bottom: 10px;">Thank you for visiting my portfolio.</h4>
@@ -129,4 +129,8 @@ layout: default
         <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
          style="border-radius:50%;">
-    <p><a href="#contact-links">Let’s connect!</a></p>
+    <p><a>Let’s connect!</a></p>
+      <a href="mailto:bhushanmapari19@gmail.com">Email | </a>
+      <a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn | </a>
+      <a href="https://github.com/BhushGb" target="_blank">Github</a>
+  </div>
