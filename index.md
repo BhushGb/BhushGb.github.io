@@ -6,7 +6,8 @@ layout: default
     <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
          style="border-radius:50%;">
-    <ul style="list-style:none;padding:0;margin-top:0px;">Get in Touch:
+    <ul style="list-style:none;padding:0;margin-top:0px;">
+          <p style="margin:0;"><strong>Bhushan S. Mapari</strong></p>
       <li><a href="mailto:bhushanmapari19@gmail.com">Email</a></li>
       <li><a href="https://in.linkedin.com/in/bhushan-m-b7b572162">LinkedIn</a></li>
         <li><a href="https://github.com/BhushGb">Github</a></li>
@@ -14,7 +15,6 @@ layout: default
   </div>
   
   <div>
-    <p style="margin:0;"><strong>Bhushan S. Mapari</strong></p>
     <p style="margin:5px 0 0; text-align: justify;">Graduate Engineer and Diploma holder specializing in Electronics and Telecommunication Engineering (E&TC). Author of two research papers published in the IEEE Xplore® Digital Library. Experienced professional with over 4 years of corporate experience, including tenure at Wipro and Robu.in. 
 </p>
      <p style="text-align: justify;">Certified in emerging technologies, with expertise in technical writing, documentation, AI-assisted content development and hands-on experience with WordPress-based content management. Possess strong verbal and non-verbal communication skills, complemented by proven abilities in research, presentation delivery, problem-solving, teamwork, and cross-functional collaboration. </p>
