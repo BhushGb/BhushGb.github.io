@@ -123,8 +123,10 @@ layout: default
     <h3><a href="https://github.com/BhushGb/P_DITA_XML_Docs/tree/main/calc-user-guide-project" target="_blank">CALC User Guide Project</a></h3>
     <p><b>Platform:</b> Github</p>
   </div>
-
 </div>
+
+<hr>
+<h4>Get in Touch</h4>
 
 <form action="https://formspree.io/f/your-id" method="POST">
   <label for="name">Name</label>
@@ -136,7 +138,7 @@ layout: default
   <label for="subject">Subject</label>
   <input type="text" id="subject" name="subject" placeholder="Subject">
 
-  <label for="message">Message</label>
+  <label for="message"></label>
   <textarea id="message" name="message" rows="5" placeholder="Your Message" required></textarea>
 
   <button type="submit">Send Message</button>
