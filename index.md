@@ -129,8 +129,8 @@ layout: default
 <div style="text-align: center; ">
   <h4 style="margin-bottom: 10px;">Thank you for visiting my portfolio.</h4>
     <p style="color: #666; margin: 0;">
-    I appreciate your time and consideration. Feel free to contact me for opportunities or collaboration.</p>
+    I appreciate your time and consideration. Feel free to connect with me for opportunities or collaboration.</p>
         <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
          style="border-radius:50%;">
-    <p><a href="#contact-links">Connect with Me! </a></p>
+    <p><a href="#contact-links">Let’s connect! </a></p>
