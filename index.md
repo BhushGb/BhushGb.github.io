@@ -133,4 +133,4 @@ layout: default
       <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
          style="border-radius:50%;">
-    <p><a href="#contact-links">Contact Bhushan.</a></p>
+    <p><a href="#contact-links">Contact Me.</a></p>
