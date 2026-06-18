@@ -6,7 +6,7 @@ layout: default
     <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
          style="border-radius:50%;">
-    <ul style="list-style:none;padding:0;margin-top:0px;"> Contact Me:
+    <ul id="contact-links" style="list-style:none;padding:0;margin-top:0px;"> Contact Me:
       <li><a href="mailto:bhushanmapari19@gmail.com">Email</a></li>
       <li><a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn</a></li>
         <li><a href="https://github.com/BhushGb" target="_blank">Github</a></li>
@@ -128,8 +128,14 @@ layout: default
 
 <hr style="margin: 40px 0; border: none; height: 1px; background: #ddd;">
 <div style="text-align: center; padding: 20px 10px; font-family: Arial, sans-serif;">
-  <h3 style="margin-bottom: 10px;">Thank You for Visiting</h3>
+  <h3 style="margin-bottom: 10px;">Thank You for visiting my portfolio</h3>
   <p style="color: #666; margin: 0;">
-    I appreciate your time. Feel free to connect for opportunities or collaboration.
+    
   </p>
+</div>
+
+<div style="text-align: center; margin-top: 50px; color: #555;">
+  <p>Thank you for visiting my portfolio.</p>
+  <p>I appreciate your time. Feel free to connect for opportunities or collaboration.</p>
+  <p>[Go to Contact Links](#contact-links)</p>
 </div>
