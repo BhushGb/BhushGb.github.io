@@ -20,7 +20,7 @@ layout: default
   </div>
 </div>
 
-<h2>My Research Papers, Projects, Posts, Blogs, and Articles</h2>
+<h2>Research, Projects, and Publications</h2>
 <p>Here you can explore my writing style reflecting my approach to clear and structured communication tailored to different audiences and topics.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;">
