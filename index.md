@@ -9,7 +9,7 @@ layout: default
          style="border-radius:50%;">
     <ul style="list-style:none;padding:0;margin-top:0px;"> Contact Me:
       <li><a id="contact-links" href="mailto:bhushanmapari19@gmail.com">Email</a></li>
-      <li><a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn</a></li>
+      <li><a href="www.linkedin.com/in/bhushan-mapari-b7b572162" target="_blank">LinkedIn</a></li>
       <li><a href="https://github.com/BhushGb" target="_blank">Github</a></li>
     </ul>
   </div>
@@ -127,7 +127,7 @@ layout: default
     <p style="color: #666; margin: 10px;"> I appreciate your time and consideration. Feel free to connect with me for opportunities or collaboration.</p>
       <p style="color: #666; margin: 10px;">
       <a href="mailto:bhushanmapari19@gmail.com">Email | </a>
-      <a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn | </a>
+      <a href="www.linkedin.com/in/bhushan-mapari-b7b572162" target="_blank">LinkedIn | </a>
       <a href="https://github.com/BhushGb" target="_blank">Github</a>
       </p>
         <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
