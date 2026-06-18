@@ -8,14 +8,15 @@ layout: default
          style="border-radius:50%;">
     <ul style="list-style:none;padding:0;margin-top:0px;">Contact Me:
       <li><a href="mailto:bhushanmapari19@gmail.com">Email</a></li>
-      <li><a href="www.linkedin.com/in/b">LinkedIn</a></li>
+      <li><a href="https://in.linkedin.com/in/bhushan-m-b7b572162">LinkedIn</a></li>
     </ul>
   </div>
   
   <div>
     <p style="margin:0;"><strong>Bhushan S. Mapari</strong></p>
-    <p style="margin:5px 0 0; text-align: justify;"><strong>About Me: </strong> I'm a Graduate engineer and diploma holder with specialization in Electronics and Telecommunication Engg. (E&TC). Author of 2 research papers published in Institute of Electrical and Electronics Engineers (IEEE) Xplore Library. Multi-tasker with enthusiastic personality, well-versed in English, and certified in various Content Writing courses.</p>
-     <p style="text-align: justify;">Multi-tasker with enthusiastic personality, well-versed in English, and certified in various Content Writing courses. well-versed in English, and certified in various Content Writing courses</p>
+    <p style="margin:5px 0 0; text-align: justify;"><strong>About Me: </strong> Graduate Engineer and Diploma holder specializing in Electronics and Telecommunication Engineering (E&TC). Author of two research papers published in the IEEE Xplore® Digital Library. Experienced professional with over 4 years of corporate experience, including tenure at Wipro and Robu.in. Certified in emerging technologies, with expertise in technical writing, documentation, AI-assisted content development and hands-on experience with WordPress-based content management. 
+</p>
+     <p style="text-align: justify;">Possess strong verbal and non-verbal communication skills, complemented by proven abilities in research, presentation delivery, problem-solving, teamwork, and cross-functional collaboration. Combines technical expertise with effective content development to deliver high-quality, user-focused solutions.</p>
   </div>
 </div>
 
@@ -23,42 +24,6 @@ layout: default
 <p>Here you can explore my writing style reflecting my approach to clear and structured communication tailored to different audiences and topics.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;">
-
-  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/ieee.jpeg" style="width:100%;border-radius:8px">
-    <h3><a href="https://ieeexplore.ieee.org/document/8697892" target="_blank">Simulation and Implementation of Microstrip Patch Antenna for ISM Band</a></h3>
-    <p><b>Platform:</b> IEEE Xplore Digital Library</p>
-  </div>
-
-  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/ieee.jpeg" style="width:100%;border-radius:8px">
-    <h3><a href="https://ieeexplore.ieee.org/document/8697481" target="_blank">Effective Environmental Monitoring & Domestic Home Conditions by Implementation of IoT</a></h3>
-    <p><b>Platform:</b> IEEE Xplore Digital Library</p>
-  </div>
-
-  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/q2.png" style="width:100%;border-radius:8px">
-    <h3><a href="https://qr.ae/pG0u77" target="_blank">Which Digital Multimeter is Good to Buy? </a></h3>
-    <p><b>Platform:</b> Quora</p>
-  </div>
-
-  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/q2.png" style="width:100%;border-radius:8px">
-    <h3><a href="https://qr.ae/pG0u7N" target="_blank">Where Can I Buy Raspberry Pi Zero in India?</a></h3>
-    <p><b>Platform:</b> Quora</p>
-  </div>
-
-  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/sine.jpg" style="width:100%;border-radius:8px">
-    <h3><a href="https://github.com/BhushGb/Asciidoc-project" target="_blank">Radio Communication Documentation Project</a></h3>
-    <p><b>Platform:</b> GitHub</p>
-  </div>
-
-  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/calc2.jpg" style="width:100%;border-radius:8px">
-    <h3><a href="https://github.com/BhushGb/P_DITA_XML_Docs/tree/main/calc-user-guide-project" target="_blank">CALC User Guide Project</a></h3>
-    <p><b>Platform:</b> Github</p>
-  </div>
 
  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/top-10-elec.jpg" style="width:100%;border-radius:8px">
@@ -119,5 +84,42 @@ layout: default
     <h3><a href="https://sites.google.com/view/technophiles/home/articles/apm-2-8-flight-controller-with-built-in-compass" target="_blank">APM 2.8 Flight Controller with Built-in Compass</a></h3>
     <p><b>Platform:</b> Technophiles - Google Sites</p>
   </div>
-  
+
+
+  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
+    <img src="assets/images/ieee.jpeg" style="width:100%;border-radius:8px">
+    <h3><a href="https://ieeexplore.ieee.org/document/8697892" target="_blank">Simulation and Implementation of Microstrip Patch Antenna for ISM Band</a></h3>
+    <p><b>Platform:</b> IEEE Xplore® Digital Library</p>
+  </div>
+
+  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
+    <img src="assets/images/ieee.jpeg" style="width:100%;border-radius:8px">
+    <h3><a href="https://ieeexplore.ieee.org/document/8697481" target="_blank">Effective Environmental Monitoring & Domestic Home Conditions by Implementation of IoT</a></h3>
+    <p><b>Platform:</b> IEEE Xplore® Digital Library</p>
+  </div>
+
+  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
+    <img src="assets/images/q2.png" style="width:100%;border-radius:8px">
+    <h3><a href="https://qr.ae/pG0u77" target="_blank">Which Digital Multimeter is Good to Buy? </a></h3>
+    <p><b>Platform:</b> Quora</p>
+  </div>
+
+  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
+    <img src="assets/images/q2.png" style="width:100%;border-radius:8px">
+    <h3><a href="https://qr.ae/pG0u7N" target="_blank">Where Can I Buy Raspberry Pi Zero in India?</a></h3>
+    <p><b>Platform:</b> Quora</p>
+  </div>
+
+  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
+    <img src="assets/images/sine.jpg" style="width:100%;border-radius:8px">
+    <h3><a href="https://github.com/BhushGb/Asciidoc-project" target="_blank">Radio Communication Documentation Project</a></h3>
+    <p><b>Platform:</b> GitHub</p>
+  </div>
+
+  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
+    <img src="assets/images/calc2.jpg" style="width:100%;border-radius:8px">
+    <h3><a href="https://github.com/BhushGb/P_DITA_XML_Docs/tree/main/calc-user-guide-project" target="_blank">CALC User Guide Project</a></h3>
+    <p><b>Platform:</b> Github</p>
+  </div>
+
 </div>
