@@ -9,7 +9,7 @@ layout: default
     <ul style="list-style:none;padding:0;margin-top:0px;"> Contact Me:
       <li><a href="mailto:bhushanmapari19@gmail.com">Email</a></li>
       <li><a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn</a></li>
-        <li><a href="https://github.com/BhushGb" target="_blank">Github</a></li>
+      <li><a href="https://github.com/BhushGb" target="_blank">Github</a></li>
     </ul>
   </div>
   
@@ -107,12 +107,6 @@ layout: default
   </div>
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/q2.png" style="width:100%;border-radius:8px">
-    <h3><a href="https://qr.ae/pG0u7N" target="_blank">Where Can I Buy Raspberry Pi Zero in India?</a></h3>
-    <p><b>Platform:</b> Quora</p>
-  </div>
-
-  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/sine.jpg" style="width:100%;border-radius:8px">
     <h3><a href="https://github.com/BhushGb/Asciidoc-project" target="_blank">Radio Communication Documentation Project</a></h3>
     <p><b>Platform:</b> GitHub</p>
@@ -133,4 +127,7 @@ layout: default
         <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
          style="border-radius:50%;">
-    <p><a href="#contact-links">Let’s connect! </a></p>
+    <p>Let’s connect!</p>
+      <li><a href="mailto:bhushanmapari19@gmail.com">Email</a></li>
+      <li><a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn</a></li>
+      <li><a href="https://github.com/BhushGb" target="_blank">Github</a></li>
