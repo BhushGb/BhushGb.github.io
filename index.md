@@ -133,6 +133,6 @@ layout: default
       <a href="mailto:bhushanmapari19@gmail.com">Email | </a>
       <a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn | </a>
       <a href="https://github.com/BhushGb" target="_blank">Github</a>
-      <p/>
-      <p><strong style="color: #1e3a8a;">Let’s connect!</strong></p>
+      </p>
+      <p><strong>Let’s connect!</strong></p>
   </div>
