@@ -3,10 +3,10 @@ layout: default
 ---
 <div style="display:flex; align-items:flex-start; gap:20px;">
   <div style="text-align:center;">
-    <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
+    <img id="contact-links" src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
          style="border-radius:50%;">
-    <ul id="contact-links" style="list-style:none;padding:0;margin-top:0px;"> Contact Me:
+    <ul style="list-style:none;padding:0;margin-top:0px;"> Contact Me:
       <li><a href="mailto:bhushanmapari19@gmail.com">Email</a></li>
       <li><a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn</a></li>
         <li><a href="https://github.com/BhushGb" target="_blank">Github</a></li>
