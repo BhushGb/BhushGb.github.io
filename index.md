@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<div style="display:flex; align-items:flex-start; gap:20px;">
+<div id="contact-links" style="display:flex; align-items:flex-start; gap:20px;">
   <div style="text-align:center;">
-    <img id="contact-links" src="https://avatars.githubusercontent.com/BhushGb?size=350"
+    <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
          style="border-radius:50%;">
     <ul style="list-style:none;padding:0;margin-top:0px;"> Contact Me:
@@ -125,9 +125,12 @@ layout: default
   </div>
 </div>
 
-<hr style="margin: 40px 0; border: none; height: 1px; background: #ddd;">
+<hr style="margin: 10px 0; border: none; height: 1px; background: #ddd;">
 <div style="text-align: center; ">
   <h4 style="margin-bottom: 10px;">Thank You for visiting my portfolio.</h4>
   <p style="color: #666; margin: 0;">
     I appreciate your time. Feel free to connect with me for opportunities or collaboration.</p>
     <p><a href="#contact-links">Contact Bhushan.</a></p>
+    <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
+         width="140"
+         style="border-radius:50%;">
