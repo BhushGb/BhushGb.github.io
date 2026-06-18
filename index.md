@@ -125,8 +125,9 @@ layout: default
   </div>
 </div>
 
+<hr>
 <div style="text-align: center; margin-top: 50px; color: #555;">
-  <p>Thank you for visiting my portfolio.</p>
+  <p><strong>Thank you for visiting my portfolio.<strong></p>
   <p>I appreciate your time. Feel free to connect for opportunities or collaboration.</p>
-  <p>[Go to Contact Links](#contact-links)</p>
+  <p><a href="#contact-links">Go to Contact Links</a></p>
 </div>
