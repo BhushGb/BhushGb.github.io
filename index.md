@@ -125,15 +125,6 @@ layout: default
   </div>
 </div>
 
-
-<hr style="margin: 40px 0; border: none; height: 1px; background: #ddd;">
-<div style="text-align: center; padding: 20px 10px; font-family: Arial, sans-serif;">
-  <h3 style="margin-bottom: 10px;">Thank You for visiting my portfolio</h3>
-  <p style="color: #666; margin: 0;">
-    
-  </p>
-</div>
-
 <div style="text-align: center; margin-top: 50px; color: #555;">
   <p>Thank you for visiting my portfolio.</p>
   <p>I appreciate your time. Feel free to connect for opportunities or collaboration.</p>
