@@ -21,9 +21,9 @@ layout: default
   </div>
 </div>
 
-<h2>Research, Projects, and Publications</h2>
+<h2>Articles, Publications, Research Papers, and Projects</h2>
 <p>Explore a collection of my research papers, projects, articles, blogs, and publications that showcase my writing style, technical expertise, and ability to communicate complex concepts with clarity and structure for diverse audiences.
-</p>
+</p>Graduate Engineer and Diploma Holder in
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;">
 
@@ -90,13 +90,13 @@ layout: default
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/ieee.jpeg" style="width:100%;border-radius:8px">
-    <h3><a href="https://ieeexplore.ieee.org/document/8697892" target="_blank">Simulation and Implementation of Microstrip Patch Antenna for ISM Band</a></h3>
+    <h3><a href="https://ieeexplore.ieee.org/document/8697892" target="_blank">Research Paper: Simulation and Implementation of Microstrip Patch Antenna for ISM Band</a></h3>
     <p><b>Platform:</b> IEEE Xplore® Digital Library</p>
   </div>
 
   <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/ieee.jpeg" style="width:100%;border-radius:8px">
-    <h3><a href="https://ieeexplore.ieee.org/document/8697481" target="_blank">Effective Environmental Monitoring & Domestic Home Conditions by Implementation of IoT</a></h3>
+    <h3><a href="https://ieeexplore.ieee.org/document/8697481" target="_blank">Research Paper: Effective Environmental Monitoring & Domestic Home Conditions by Implementation of IoT</a></h3>
     <p><b>Platform:</b> IEEE Xplore® Digital Library</p>
   </div>
 
