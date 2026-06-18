@@ -8,8 +8,8 @@ layout: default
          style="border-radius:50%;">
     <ul style="list-style:none;padding:0;margin-top:0px;"> Contact Me:
       <li><a href="mailto:bhushanmapari19@gmail.com">Email</a></li>
-      <li><a href="https://in.linkedin.com/in/bhushan-m-b7b572162">LinkedIn</a></li>
-        <li><a href="https://github.com/BhushGb">Github</a></li>
+      <li><a href="https://in.linkedin.com/in/bhushan-m-b7b572162" target="_blank">LinkedIn</a></li>
+        <li><a href="https://github.com/BhushGb" target="_blank">Github</a></li>
     </ul>
   </div>
   
