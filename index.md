@@ -9,7 +9,6 @@ layout: default
     <ul style="list-style:none;padding:0;margin-top:0px;">Contact Me:
       <li><a href="mailto:bhushanmapari19@gmail.com">Email</a></li>
       <li><a href="https://in.linkedin.com/in/bhushan-m-b7b572162">LinkedIn</a></li>
-      https://github.com/BhushGb/
     </ul>
   </div>
   
@@ -22,7 +21,8 @@ layout: default
 </div>
 
 <h2>Research, Projects, and Publications</h2>
-<p>Here you can explore my writing style reflecting my approach to clear and structured communication tailored to different audiences and topics.</p>
+<p>Explore a collection of my research papers, projects, articles, blogs, and publications that showcase my writing style, technical expertise, and ability to communicate complex concepts with clarity and structure for diverse audiences.
+</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;">
 
