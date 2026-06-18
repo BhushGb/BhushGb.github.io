@@ -6,8 +6,7 @@ layout: default
     <img src="https://avatars.githubusercontent.com/BhushGb?size=350"
          width="140"
          style="border-radius:50%;">
-    <ul style="list-style:none;padding:0;margin-top:0px;">
-      <p>Contact Me:</p>
+    <ul style="list-style:none;padding:0;margin-top:0px;"> Contact Me:
       <li><a href="mailto:bhushanmapari19@gmail.com">Email</a></li>
       <li><a href="https://in.linkedin.com/in/bhushan-m-b7b572162">LinkedIn</a></li>
         <li><a href="https://github.com/BhushGb">Github</a></li>
