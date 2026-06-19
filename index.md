@@ -120,7 +120,7 @@ layout: default
 </div>
 
 <hr style="margin-top: 40px; margin-bottom: 20px; border: none; height: 1px; background: #ddd;">
-
+Designed, developed, and maintained by me.
 <div style="text-align: center; ">
   <h4 style="margin-bottom: 10px;">Thank you for exploring my portfolio!  </h4>
     <p style="color: #666; margin: 10px;"> I appreciate your time and consideration. Feel free to connect with me for opportunities or collaboration.</p>
@@ -138,7 +138,7 @@ layout: default
   <div style="text-align: center; ">
   <p style="color: #666; margin: 10px;">
     <i> ──────────────── ♥ ──────────────── <br/>
-      Crafted with precision and dedication.<br/> 
+      Designed & developed by me.<br/> 
       Thanks for stopping by!
     <br/> - Bhushan.</i> </p>
 
