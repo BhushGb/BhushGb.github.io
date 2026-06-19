@@ -123,7 +123,7 @@ layout: default
 
 <div style="text-align: center; ">
   <h4 style="margin-bottom: 10px;">Thank you for visiting my portfolio!  </h4>
-    <p style="color: #666; margin: 10px;"> <i>Designed and developed with ❤️ by me. </i> <br/> I appreciate your time and consideration. Feel free to connect with me for opportunities or collaboration.</p>
+    <p style="color: #666; margin: 10px;"> <i>Designed and developed with ❤️ by me. </i> <br/> <br/> I appreciate your time and consideration. Feel free to connect with me for opportunities or collaboration.</p>
       <p style="color: #666; margin: 10px;">
       <a href="mailto:bhushanmapari19@gmail.com">Email | </a>
       <a href="https://www.linkedin.com/in/bhushan-mapari-b7b572162" target="_blank">LinkedIn | </a>
