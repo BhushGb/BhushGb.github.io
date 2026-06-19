@@ -138,7 +138,7 @@ Designed, developed, and maintained by me.
   <div style="text-align: center; ">
   <p style="color: #666; margin: 10px;">
     <i> ──────────────── ♥ ──────────────── <br/>
-      Designed & developed by me.<br/> 
+      Crafted with dedication, powered by passion.<br/> 
       Thanks for stopping by!
     <br/> - Bhushan.</i> </p>
 
