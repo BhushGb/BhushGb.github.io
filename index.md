@@ -137,7 +137,7 @@ layout: default
   <div style="text-align: center; ">
   <p style="color: #666; margin: 10px;">
     <i> ──────────────── ♥ ──────────────── <br/>
-      Crafted with dedication, powered by passion.<br/> 
+      Crafted with creativity, powered by <code>code.</code><br/> 
       Thanks for stopping by!
     <br/> - Bhushan.</i> </p>
 
