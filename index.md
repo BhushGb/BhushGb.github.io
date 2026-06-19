@@ -134,7 +134,7 @@ layout: default
          style="border-radius:50%;"> 
   <p><strong>Bhushan S. Mapari</strong></p>
   </div>
-  <br/>
+  <br/> <br/>
   <div style="text-align: center; ">
   <p style="color: #666; margin: 10px;">
     <i>Portfolio designed and developed with ❤️ by me.<br/> 
