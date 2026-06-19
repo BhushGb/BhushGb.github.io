@@ -139,4 +139,4 @@ layout: default
   <p style="color: #666; margin: 10px;">
     <i>Portfolio designed and developed with ❤️ by me.<br/> 
       Thanks for stopping by!
-    <br/> - Bhushan</i> </p>
+    <br/> - Bhushan.</i> </p>
