@@ -17,7 +17,7 @@ layout: default
      <p style="margin:0;"><strong>Bhushan S. Mapari</strong></p>
     <p style="margin:5px 0 0; text-align: justify;">Graduate Engineer and Diploma holder specializing in Electronics and Telecommunication Engineering (E&TC). Author of two research papers published in the IEEE Xplore Digital Library. Experienced professional with over 4 years of corporate experience, including tenure at Wipro and Robu.in. 
 </p>
-     <p style="text-align: justify;">Certified in emerging technologies, with expertise in technical writing, documentation, AI-assisted content development and hands-on experience with WordPress-based content management. Possess strong verbal and non-verbal communication skills, complemented by proven abilities in research, presentation delivery, problem-solving, teamwork, and cross-functional collaboration. </p>
+     <p style="text-align: justify;">Certified in emerging technologies, with expertise in technical writing, documentation, AI-assisted content development and hands-on experience with WordPress-based content management. Strong verbal and non-verbal communication skilled, complemented by proven abilities in research, presentation delivery, problem-solving, teamwork, and cross-functional collaboration. </p>
   </div>
 </div>
 
