@@ -137,7 +137,8 @@ layout: default
   <br/> <br/>
   <div style="text-align: center; ">
   <p style="color: #666; margin: 10px;">
-    <i> ──────────────── ✦ ──────────────── <br/>
-      Portfolio designed and developed with ❤️ by me.<br/> 
+    <i> ──────────────── ♥ ──────────────── <br/>
+      Crafted with precision and dedication.<br/> 
       Thanks for stopping by!
     <br/> - Bhushan.</i> </p>
+
