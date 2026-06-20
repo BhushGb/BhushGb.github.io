@@ -21,11 +21,23 @@ layout: default
   </div>
 </div>
 
-<h2>Publications, Research Papers, and Projects</h2>
-<p>Explore a collection of my articles, blogs, publications, research papers, and projects that showcase my writing style, technical expertise, and ability to communicate complex concepts with clarity and structure for diverse audiences.
+<h2>Projects, Publications, and Research Papers/h2>
+<p>Explore a collection of my projetcs, articles, blog posts, and research papers that showcase my writing style, technical expertise, and ability to communicate complex concepts with clarity and structure for diverse audiences.
 </p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;">
+
+  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
+    <img src="assets/images/sine.jpg" style="width:100%;border-radius:8px">
+    <h3><a href="https://github.com/BhushGb/Asciidoc-project" target="_blank">Radio Communication Documentation Project</a></h3>
+    <p><b>Platform:</b> GitHub</p>
+  </div>
+
+  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
+    <img src="assets/images/calc2.jpg" style="width:100%;border-radius:8px">
+    <h3><a href="https://github.com/BhushGb/P_DITA_XML_Docs/tree/main/calc-user-guide-project" target="_blank">CALC User Guide Project</a></h3>
+    <p><b>Platform:</b> Github</p>
+  </div>
 
  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
     <img src="assets/images/top-10-elec.jpg" style="width:100%;border-radius:8px">
@@ -106,17 +118,6 @@ layout: default
     <p><b>Platform:</b> Quora</p>
   </div>
 
-  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/sine.jpg" style="width:100%;border-radius:8px">
-    <h3><a href="https://github.com/BhushGb/Asciidoc-project" target="_blank">Radio Communication Documentation Project</a></h3>
-    <p><b>Platform:</b> GitHub</p>
-  </div>
-
-  <div style="background:#fafafa;border:1px solid #ddd;border-radius:10px;padding:15px;">
-    <img src="assets/images/calc2.jpg" style="width:100%;border-radius:8px">
-    <h3><a href="https://github.com/BhushGb/P_DITA_XML_Docs/tree/main/calc-user-guide-project" target="_blank">CALC User Guide Project</a></h3>
-    <p><b>Platform:</b> Github</p>
-  </div>
 </div>
 
 <hr style="margin-top: 40px; margin-bottom: 20px; border: none; height: 1px; background: #ddd;">
