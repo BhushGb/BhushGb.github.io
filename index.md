@@ -21,7 +21,8 @@ layout: default
   </div>
 </div>
 
-<h2>Projects, Publications, and Research Papers/h2>
+<h2>Projects, Publications, and Research Papers</h2>
+
 <p>Explore a collection of my projetcs, articles, blog posts, and research papers that showcase my writing style, technical expertise, and ability to communicate complex concepts with clarity and structure for diverse audiences.
 </p>
 
