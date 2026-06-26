@@ -15,15 +15,15 @@ layout: default
   
   <div>
      <p style="margin:0;"><strong>Bhushan S. Mapari</strong></p>
-    <p style="margin:5px 0 0; text-align: justify;">Graduate Engineer and Diploma holder specializing in Electronics and Telecommunication Engineering (E&TC). Author of two research papers published in the IEEE Xplore Digital Library. Experienced professional with over 4 years of corporate experience, including tenure at Wipro and Robu.in. 
+    <p style="margin:5px 0 0; text-align: justify;">Graduate Engineer and Diploma Holder specializing in Electronics and Telecommunication Engineering (E&TC). Author of research papers published in the IEEE Xplore Digital Library. Experienced professional with over 4 years of corporate experience, including tenure at Wipro and Robu.in. 
 </p>
-     <p style="text-align: justify;">Certified in emerging technologies, with expertise in technical writing, documentation, AI-assisted content development and hands-on experience with WordPress-based content management. Strong verbal and non-verbal communication skilled, complemented by proven abilities in research, presentation delivery, problem-solving, teamwork, and cross-functional collaboration. </p>
+     <p style="text-align: justify;">Certified in emerging technologies, with expertise in technical writing as well as documentation and hands-on experience with WordPress-based content management. Skilled in strong verbal and non-verbal communication, complemented by proven abilities in research, presentation delivery, problem solving, teamwork and collaboration. </p>
   </div>
 </div>
 
 <h2>Projects, Publications, and Research Papers</h2>
 
-<p>Explore a collection of my projetcs, articles, blog posts, and research papers that showcase my writing style, technical expertise, and ability to communicate complex concepts with clarity and structure for diverse audiences.
+<p>Explore a collection of my projects, articles, blog posts, and research papers that showcase my writing style, technical expertise, and ability to communicate complex concepts with clarity and structure for diverse audiences.
 </p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;">
