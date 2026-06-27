@@ -2,5 +2,8 @@ title: Professional Profile & Portfolio
 description: Portfolio | Bhushan Mapari
 
 markdown: kramdown
+
 plugins:
   - jekyll-remote-theme
+
+remote_theme: pages-themes/minimal@v0.2.0
