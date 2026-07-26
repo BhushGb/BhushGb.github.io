@@ -1,0 +1,1 @@
+define({'ISBN':{d:'International Standard Book Number (abbrev. ISBN) is a unique 13-digit commercial identifier assigned to books.',l:''},'Keywords':{d:'Specific, highly relevant words or phrases that describe what a book is about.',l:''},'Loans':{d:'Here, loans refer to price of borrowed books.',l:''}});
