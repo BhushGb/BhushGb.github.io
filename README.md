@@ -27,7 +27,7 @@ Open https://bhushgb.github.io/CCL_Online_Portal/ in your browser. The CCL proje
 The portal documentation covers topics such as:
 
 * About CCL
-* Getting Started
+* Getting Started with LMS
 * User Login
 * Searching the Catalog
 * Borrowing Books
