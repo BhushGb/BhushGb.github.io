@@ -15,7 +15,6 @@ Open https://bhushgb.github.io/CCL_Online_Portal/ in your browser. The CCL proje
 * Create a professional online help system using MadCap Flare.
 * Demonstrate information architecture and topic-based authoring.
 * Showcase responsive HTML5 documentation.
-* Provide a realistic documentation sample suitable for a technical writing portfolio.
 
 
 ### Tools Used
