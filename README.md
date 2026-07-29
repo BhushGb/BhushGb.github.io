@@ -7,7 +7,7 @@ The CCL Online Portal is a sample documentation project created using MadCap Fla
 Open https://bhushgb.github.io/CCL_Online_Portal/ in your browser. The CCL project showcases best practices in technical documentation, including topic-based authoring, structured navigation, reusable content, responsive output, and searchable online help.
 
 > **Disclaimer:**
-> City Central Library (CCL) is a fictional organization. Libray Management System (LMS) doesn't represent actual real world product. Both created solely for demonstration, portfolio, and learning purposes. Any resemblance to actual organizations, products, or services is purely coincidental.
+> The **City Central Library (CCL)** website and the **Library Management System (LMS)** are demonstration projects created for educational and learning purposes only. They are fictional and do **not** represent a real library, organization, or commercial software product. Any resemblance to actual organizations, products, or services is purely coincidental.
 
 
 ### Project Objectives
