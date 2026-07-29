@@ -30,12 +30,10 @@ The portal documentation covers topics such as:
 * About CCL
 * Getting Started
 * User Login
-* Dashboard Overview
-* Searching the Library Catalog
+* Searching the Catalog
 * Borrowing Books
 * Returning Books
-* Book Reservations
-* User Profile Management
+* Managing Account
 * Frequently Asked Questions (FAQ)
 * Contact Page
 
