@@ -4,12 +4,14 @@
 
 The **CCL Online Library Portal** is a sample documentation project created using **MadCap Flare**. It demonstrates how a modern online help system can be designed, structured, and published for a fictional library management application.
 
+### HTML
+Open bhushGb.github.io in your browser.
+
 The project showcases best practices in technical documentation, including topic-based authoring, structured navigation, reusable content, responsive output, and searchable online help.
 
 > **Disclaimer:**
 > **City Central Library (CCL)** is a fictional organization created solely for demonstration, portfolio, and learning purposes. Any resemblance to actual organizations, products, or services is purely coincidental.
 
----
 
 ## Project Objectives
 
@@ -18,7 +20,7 @@ The project showcases best practices in technical documentation, including topic
 * Showcase responsive HTML5 documentation.
 * Provide a realistic documentation sample suitable for a technical writing portfolio.
 
----
+
 
 ## Features
 
@@ -31,7 +33,6 @@ The project showcases best practices in technical documentation, including topic
 * Print-friendly PDF output
 * Consistent styling using MadCap Flare
 
----
 
 ## Documentation Includes
 
@@ -48,7 +49,7 @@ The portal documentation covers topics such as:
 * Frequently Asked Questions (FAQ)
 * Contact Page
 
----
+
 
 ## Technologies Used
 
@@ -58,12 +59,11 @@ The portal documentation covers topics such as:
 * Responsive Web Output
 
 
----
+
 ## Portfolio Note
 
 This repository is part of my technical writing portfolio and is intended to demonstrate my ability to plan, write, organize, and publish professional product documentation using MadCap Flare.
 
----
 
 ## License
 
