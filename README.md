@@ -7,7 +7,7 @@ The CCL Online Portal is a sample documentation project created using MadCap Fla
 Open https://bhushgb.github.io/CCL_Online_Portal/ in your browser. The CCL project showcases best practices in technical documentation, including topic-based authoring, structured navigation, reusable content, responsive output, and searchable online help.
 
 > **Disclaimer:**
-> City Central Library (CCL) is a fictional organization created solely for demonstration, portfolio, and learning purposes. Any resemblance to actual organizations, products, or services is purely coincidental.
+> City Central Library (CCL) is a fictional organization and Libray Management System (LMS) doesn't represent actual real world product created solely for demonstration, portfolio, and learning purposes. Any resemblance to actual organizations, products, or services is purely coincidental.
 
 
 ### Project Objectives
@@ -18,23 +18,16 @@ Open https://bhushgb.github.io/CCL_Online_Portal/ in your browser. The CCL proje
 * Provide a realistic documentation sample suitable for a technical writing portfolio.
 
 
+### Tools Used
 
-### Features
-
-* Responsive HTML5 help output
-* Organized table of contents and navigation
-* Search functionality
-* Cross-references and hyperlinks
-* Reusable content and variables
-* Images, callouts, and step-by-step procedures
-* Print-friendly PDF output
-* Consistent styling using MadCap Flare
+* MadCap Flare
 
 
-### Documentation Includes
+### Online Portal Documentation Includes
 
 The portal documentation covers topics such as:
 
+* About CCL
 * Getting Started
 * User Login
 * Dashboard Overview
@@ -45,12 +38,6 @@ The portal documentation covers topics such as:
 * User Profile Management
 * Frequently Asked Questions (FAQ)
 * Contact Page
-
-
-
-### Tools Used
-
-* MadCap Flare
 
 
 ## License
