@@ -1,7 +1,6 @@
 # CCL Online Library Portal
 
 ## Overview
-
 The CCL Online Portal is a sample documentation project created using MadCap Flare. It demonstrates how a modern online help system can be designed, structured, and published for a fictional library management application.
 
 ## HTML Output
@@ -51,16 +50,11 @@ The portal documentation covers topics such as:
 
 ### Technologies Used
 
-* **MadCap Flare**
+* MadCap Flare
 * HTML5
 * CSS
 * Responsive Web Output
 
-
-
-### Portfolio Note
-
-This repository is part of my technical writing portfolio and is intended to demonstrate my ability to plan, write, organize, and publish professional product documentation using MadCap Flare.
 
 
 ## License
