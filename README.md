@@ -1,6 +1,6 @@
-# CCL Online Library Portal
+#CCL Online Portal Project
 
-## Overview
+## Project Overview
 The CCL Online Portal is a sample documentation project created using MadCap Flare. It demonstrates how a modern online help system can be designed, structured, and published for a fictional library management application.
 
 ## HTML Output
