@@ -48,13 +48,9 @@ The portal documentation covers topics such as:
 
 
 
-### Technologies Used
+### Tools Used
 
 * MadCap Flare
-* HTML5
-* CSS
-* Responsive Web Output
-
 
 
 ## License
